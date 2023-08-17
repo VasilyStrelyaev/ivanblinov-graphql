@@ -1,232 +1,85 @@
 import React, { useState } from 'react';
 import './App.css';
 import {
-  DataGrid, Column, Editing, Scrolling, Lookup, Summary, TotalItem,
+  DataGrid, Column, Scrolling
 } from 'devextreme-react/data-grid';
-import { DataGridTypes } from 'devextreme-react/data-grid';
-import { Button } from 'devextreme-react/button';
-import { SelectBox } from 'devextreme-react/select-box';
 
 import CustomStore from 'devextreme/data/custom_store';
-import { formatDate } from 'devextreme/localization';
-import { gql, useApolloClient, useMutation } from '@apollo/client';
-import { OrderValues } from './types';
+import { gql, useApolloClient } from '@apollo/client';
+import { QueryResultItem, ReactionStats, UserStatsRow } from './types';
 
 import _ from 'lodash';
+import { ReactionType } from '../../../types';
 
-const OrdersQuery = gql`
-query{
-  Orders {
-    OrderID,
-    CustomerID,
-    EmployeeID,
-    OrderDate,
-    RequiredDate,
-    ShippedDate,
-    ShipVia,
-    Freight,
-    ShipName,
-    ShipAddress,
-    ShipCity,
-    ShipRegion,
-    ShipPostalCode,
-    ShipCountry,
-    Customer,
-    Employee,
-    Shipper
-  }
-}`;
-const CustomersQuery = gql`
-query{
-  Customers {
-    Value,
-    Text
+type GetFavoriteReactionFn = (reactions: { ReactionType: ReactionType }[]) => ReactionType;
+
+const UsersQuery = gql`
+query GetAllUsers($fromDate: String!, $toDate: String!) {
+  Users {
+    ID,
+    PublicName,
+    Posts(from: $fromDate, to: $toDate) {
+      ID
+    },
+    Reactions {
+      ReactionType
+    }
   }
 }`;
 
-const ShippersQuery = gql`
-query{
-  Shippers {
-    Value,
-    Text
-  }
-}`;
+const getFavoriteReaction: GetFavoriteReactionFn = (reactions) => {
+  const reactionStats = reactions.reduce<ReactionStats>((acc, reaction) => {
+    acc[reaction.ReactionType]++;
 
-const InsertOrderMutation = gql`
-mutation($CustomerID: String, $OrderDate: String, $Freight: Float, $ShipCountry: String, $ShipVia: Int){
-  InsertOrder(CustomerID: $CustomerID, OrderDate: $OrderDate, Freight: $Freight, ShipCountry: $ShipCountry, ShipVia: $ShipVia){
-    OrderID,
-    CustomerID,
-    OrderDate,
-    Freight,
-    ShipCountry,
-    ShipVia
-  }
-}`
+    return acc;
+  }, { smile: 0, heart: 0, fire: 0, crying: 0 });
 
-const DeleteOrderMutation = gql`
-mutation($OrderID: ID){
-  DeleteOrder(OrderID: $OrderID){
-    OrderID
-  }
-}`
+  const sortedReactionStats = Object.entries(reactionStats).sort((stat1, stat2) => stat1[1] - stat2[1]);
 
-const UpdateOrderMutation = gql`
-mutation($OrderID: ID, $CustomerID: String, $OrderDate: String, $Freight: Float, $ShipCountry: String, $ShipVia: Int){
-  UpdateOrder(OrderID: $OrderID, CustomerID: $CustomerID, OrderDate: $OrderDate, Freight: $Freight, ShipCountry: $ShipCountry, ShipVia: $ShipVia){
-    OrderID,
-    CustomerID,
-    OrderDate,
-    Freight,
-    ShipCountry,
-    ShipVia
-  }
-}`
-
-const refreshModeLabel = { 'aria-label': 'Refresh Mode' };
-// const URL = 'https://js.devexpress.com/Demos/Mvc/api/DataGridWebApi';
-const URL = 'http://localhost:3005';
-
-const REFRESH_MODES = ['full', 'reshape', 'repaint'];
+  return sortedReactionStats[sortedReactionStats.length - 1][0] as ReactionType;
+};
 
 export default function App() {
   const appoloClient = useApolloClient();
-  const [InsertOrder] = useMutation(InsertOrderMutation);
-  const [DeleteOrder] = useMutation(DeleteOrderMutation);
-  const [UpdateOrder] = useMutation(UpdateOrderMutation);
-  const [ordersData, setOrdersData] = useState(new CustomStore<OrderValues, string>({
-    key: 'OrderID',
-    load: () => sendRequest(`Orders`).then(data => _.cloneDeep(data)),
-    insert: (values) => sendRequest(`InsertOrder`, 'POST', {
-      values,
-    }),
-    update: (key, values) => sendRequest(`UpdateOrder`, 'PUT', {
-      key,
-      values,
-    }),
-    remove: (key) => sendRequest(`DeleteOrder`, 'DELETE', {
-      key,
-    }),
+  const [userStatsData] = useState(new CustomStore<UserStatsRow, string>({
+    key: 'userId',
+    load: () => appoloClient
+        .query({
+          query: UsersQuery,
+          variables: {
+            fromDate: new Date(Date.now() - 1000 * 60 * 60 * 24 * 30).toISOString(),
+            toDate: new Date().toISOString()
+          } })
+        .then(response => response.data.Users)
+        .then((data: QueryResultItem[]) => data.map<UserStatsRow>(dataItem => ({
+          userId: dataItem.ID,
+          publicName: dataItem.PublicName,
+          postCountLastMonth: dataItem.Posts.length,
+          favoriteReaction: getFavoriteReaction(dataItem.Reactions)
+        })))
   }));
-  const [customersData, setCustomersData] = useState(new CustomStore({
-    key: 'Value',
-    loadMode: 'raw',
-    load: () => sendRequest(`Customers`),
-  }));
-  const [shippersData, setShippersData] = useState(new CustomStore({
-    key: 'Value',
-    loadMode: 'raw',
-    load: () => sendRequest(`Shippers`),
-  }));
-  const [requests, setRequests] = useState<string[]>([]);
-  const [refreshMode, setRefreshMode] = useState<DataGridTypes.GridsEditRefreshMode>('reshape');
 
-  const sendRequest = (query: string, method = 'GET', data: { key?: string, values?: any } = {}) => {
-    //logRequest(method, query, data);
-    switch (query){
-      case 'Orders':
-        return appoloClient.query({query: OrdersQuery}).then(response => response.data.Orders);
-      case 'Customers':
-        return appoloClient.query({query: CustomersQuery}).then(response => response.data.Customers);
-      case 'Shippers':
-        return appoloClient.query({query: ShippersQuery}).then(response => response.data.Shippers);
-      case 'InsertOrder':
-        return InsertOrder({variables: data.values}).then(res => res.data.InsertOrder);
-      case 'DeleteOrder':
-        return DeleteOrder({variables: { OrderID: data.key }}).then(res => console.log(res));
-      case 'UpdateOrder':
-        return UpdateOrder({variables: { OrderID: data.key, ...data.values }}).then(res => res.data.UpdateOrder);
-    }
-    const response = appoloClient.query({query: OrdersQuery}).then(response => response.data.Orders);
-    console.log(response);
-    return response;
-  }
-
-  const logRequest = (method: string, query: string, data: { key?: string, values?: any }) => {
-    const args = (data.key ? `key=${data.key} (${typeof data.key})` : '').concat(Object.keys(data.values || {}).map((key) => `${key}=${data.values[key]} (${typeof data.values[key]})`).join(' '));
-
-    const time = formatDate(new Date(), 'HH:mm:ss');
-    const request = [time, method, query, args].join(' ');
-
-    setRequests((requests) => [request].concat(requests))
-  }
-
-  const clearRequests = () => {
-    setRequests([]);
-  }
-
-  const handleRefreshModeChange = (e) => {
-    setRefreshMode(e.value);
-  }
   return (
     <React.Fragment>
       <DataGrid
         id="grid"
         showBorders={true}
-        dataSource={ordersData}
+        dataSource={userStatsData}
         repaintChangesOnly={true}
       >
-        <Editing
-          refreshMode={refreshMode}
-          mode="cell"
-          allowAdding={true}
-          allowDeleting={true}
-          allowUpdating={true}
-        />
-
         <Scrolling
           mode="virtual"
         />
 
-        <Column dataField="OrderID" dataType="string" allowEditing={false}>
+        <Column dataField="publicName" dataType="string">
         </Column>
 
-        <Column dataField="CustomerID" caption="Customer">
-          <Lookup dataSource={customersData} valueExpr="Value" displayExpr="Text" />
+        <Column dataField="postCountLastMonth" dataType="number">
         </Column>
 
-        <Column dataField="OrderDate" dataType="date">
+        <Column dataField="favoriteReaction" dataType="string">
         </Column>
-
-        <Column dataField="Freight">
-        </Column>
-
-        <Column dataField="ShipCountry">
-        </Column>
-
-        <Column
-          dataField="ShipVia"
-          caption="Shipping Company"
-          dataType="number"
-        >
-          <Lookup dataSource={shippersData} valueExpr="Value" displayExpr="Text" />
-        </Column>
-        <Summary>
-          <TotalItem column="CustomerID" summaryType="count" />
-          <TotalItem column="Freight" summaryType="sum" valueFormat="#0.00" />
-        </Summary>
       </DataGrid>
-      <div className="options">
-        <div className="caption">Options</div>
-        <div className="option">
-          <span>Refresh Mode: </span>
-          <SelectBox
-            value={refreshMode}
-            inputAttr={refreshModeLabel}
-            items={REFRESH_MODES}
-            onValueChanged={handleRefreshModeChange}
-          />
-        </div>
-        <div id="requests">
-          <div>
-            <div className="caption">Network Requests</div>
-            <Button id="clear" text="Clear" onClick={clearRequests} />
-          </div>
-          <ul>
-            {requests.map((request, index) => <li key={index}>{request}</li>)}
-          </ul>
-        </div>
-      </div>
     </React.Fragment>
   );
 }

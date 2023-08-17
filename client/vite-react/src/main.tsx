@@ -1,12 +1,12 @@
 import React from 'react'
 import ReactDOM from 'react-dom/client'
 import App from './App.tsx'
-import { ApolloClient, InMemoryCache, ApolloProvider, gql } from '@apollo/client';
+import { ApolloClient, InMemoryCache, ApolloProvider } from '@apollo/client';
 import './index.css'
 import 'devextreme/dist/css/dx.light.compact.css';
 
 const client = new ApolloClient({
-  uri: 'http://localhost:3005/Orders',
+  uri: 'http://localhost:3005/Users',
   cache: new InMemoryCache(),
 });
 ReactDOM.createRoot(document.getElementById('root') as HTMLElement).render(

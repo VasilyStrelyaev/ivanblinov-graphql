@@ -2,19 +2,14 @@ const express = require('express');
 const cors  = require('cors');
 const { createHandler } = require('graphql-http/lib/use/express');
 const schema = require('../schema/schema');
-const OrdersSchema = require('../schema/orders-schema');
 
 const app = express();
 const PORT = 3005;
 
 app.use(cors());
 
-app.use('/graphql', createHandler({
-    schema,
-}));
-
-app.use('/Orders', createHandler({
-    schema: OrdersSchema,
+app.use('/Users', createHandler({
+    schema: schema,
     graphiql: true
 }))
 

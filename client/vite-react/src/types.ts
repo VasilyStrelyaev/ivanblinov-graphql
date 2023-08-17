@@ -1,24 +1,17 @@
-export type OrderValues = {
-  CustomerID: string;
-  EmployeeID: string;
-  OrderDate: string;
-  RequiredDate: string;
-  ShippedDate: string;
-  ShipVia: number;
-  Freight: number;
-  ShipName: string;
-  ShipAddress: string;
-  ShipCity: string;
-  ShipRegion: string;
-  ShipPostalCode: string;
-  ShipCountry: string;
-  Customer: string;
-  Employee: string;
-  Shipper: string;
-}
+import { ReactionType } from "../../../types";
 
-export type OrderKey = {
-  OrderID: string;
-}
+export type UserStatsRow = {
+  userId: string;
+  publicName: string;
+  postCountLastMonth: number;
+  favoriteReaction: ReactionType;
+};
 
-export type Order = OrderKey & OrderValues;
+export type ReactionStats = Record<ReactionType, number>;
+
+export type QueryResultItem = {
+  ID: string;
+  PublicName: string;
+  Posts: { ID: string }[];
+  Reactions: { ReactionType: ReactionType }[];
+};
