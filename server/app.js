@@ -4,7 +4,7 @@ const { createHandler } = require('graphql-http/lib/use/express');
 const schema = require('../schema/schema');
 
 const app = express();
-const PORT = 3005;
+const PORT = 3006;
 
 app.use(cors());
 

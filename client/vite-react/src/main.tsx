@@ -6,7 +6,7 @@ import './index.css'
 import 'devextreme/dist/css/dx.light.compact.css';
 
 const client = new ApolloClient({
-  uri: 'http://localhost:3005/Users',
+  uri: 'http://localhost:3006/Users',
   cache: new InMemoryCache(),
 });
 ReactDOM.createRoot(document.getElementById('root') as HTMLElement).render(
