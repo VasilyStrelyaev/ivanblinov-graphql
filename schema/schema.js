@@ -1,108 +1,101 @@
 const graphql = require('graphql');
-const users = require('../data/users.json');
-const posts = require('../data/posts.json');
-const reactions = require('../data/reactions.json');
+const contacts = require('../data/contacts.json');
+const messages = require('../data/messages.json');
+const tasks = require('../data/tasks.json');
 
-const { GraphQLObjectType, GraphQLString, GraphQLSchema, GraphQLID, GraphQLList } = graphql;
+const { GraphQLObjectType, GraphQLString, GraphQLSchema, GraphQLInt, GraphQLList } = graphql;
 
-const reactionsByUser = reactions.reduce((hash, reaction) => {
-    const userReactions = hash[reaction.AuthorID];
+const tasksByUser = tasks.reduce((hash, task) => {
+    const contactTasks = hash[task.contactId];
 
-    if (userReactions)
-        userReactions.push(reaction);
+    if (contactTasks)
+        contactTasks.push(task);
     else
-        hash[reaction.AuthorID] = [reaction];
+        hash[task.contactId] = [task];
 
     return hash;
 }, {});
 
-const postsByUser = posts.reduce((hash, post) => {
-    const userPosts = hash[post.AuthorID];
+const messagesByUser = messages.reduce((hash, message) => {
+    const contactMessages = hash[message.contactId];
 
-    if (userPosts)
-        userPosts.push(post);
+    if (contactMessages)
+        contactMessages.push(message);
     else
-        hash[post.AuthorID] = [post];
+        hash[message.contactId] = [message];
 
     return hash;
 }, {});
 
-const hashPosts = posts.reduce((hash, post) => {
-    hash[post.ID] = post;
-
-    return hash;
-}, {});
-
-const UserType = new GraphQLObjectType({
-    name: `User`,
+const ContactType = new GraphQLObjectType({
+    name: `Contact`,
     fields: () => ({
-        ID: { type: GraphQLID },
-        PublicName: { type: GraphQLString },
-        Bio: { type: GraphQLString },
-        PublicLocation: { type: GraphQLString },
-        AvatarURL: { type: GraphQLString },
-        Posts: {
-            type: new GraphQLList(PostType),
+        id: { type: GraphQLInt },
+        name: { type: GraphQLString },
+        position: { type: GraphQLString },
+        status: { type: GraphQLString },
+        company: { type: GraphQLString },
+        phone: { type: GraphQLString },
+        email: { type: GraphQLString },
+        assignedTo: { type: GraphQLString },
+        messages: {
+            type: new GraphQLList(MessageType),
             args: {
                 from: { type: GraphQLString },
                 to: { type: GraphQLString }
             },
             resolve(parent, args) {
-                const userPosts = postsByUser[parent.ID];
+                const contactMessages = messagesByUser[parent.id];
 
                 if (!args.from || !args.to)
-                    return userPosts;
+                    return contactMessages;
 
-                return userPosts.filter(post => {
+                return contactMessages?.filter(message => {
                     const fromMs = new Date(args.from).getTime();
                     const toMs = new Date(args.to).getTime();
-                    const postedMs = new Date(post.PostedAt).getTime();
+                    const createdMs = new Date(message.date).getTime();
 
-                    return postedMs >= fromMs && postedMs <= toMs;
+                    return createdMs >= fromMs && createdMs <= toMs;
                 });
             }
         },
-        Reactions: {
-            type: new GraphQLList(ReactionType),
+        tasks: {
+            type: new GraphQLList(TaskType),
             resolve(parent, args) {
-                const reactions = reactionsByUser[parent.ID];
-
-                reactions.forEach(reaction => {
-                    reaction.Post = hashPosts[reaction.PostID];
-                });
-
-                return reactions;
+                return tasksByUser[parent.id];
             }
         }
     })
 })
 
-const PostType = new GraphQLObjectType({
-    name: `Post`,
+const TaskType = new GraphQLObjectType({
+    name: `Task`,
     fields: () => ({
-        ID: { type: GraphQLID },
-        PostedAt: { type: GraphQLString },
-        Content: { type: GraphQLString }
+        text: { type: GraphQLString },
+        date: { type: GraphQLString },
+        status: { type: GraphQLString },
+        priority: { type: GraphQLString },
+        manager: { type: GraphQLString }
     })
 })
 
-const ReactionType = new GraphQLObjectType({
-    name: `Reaction`,
+const MessageType = new GraphQLObjectType({
+    name: `Message`,
     fields: () => ({
-        ID: { type: GraphQLID },
-        Post: { type: PostType },
-        LeftAt: { type: GraphQLString },
-        ReactionType: { type: GraphQLString }
+        text: { type: GraphQLString },
+        subject: { type: GraphQLString },
+        date: { type: GraphQLString },
+        manager: { type: GraphQLString }
     })
 })
 
 const Query = new GraphQLObjectType({
-    name: 'GetAllUsers',
+    name: 'GetAllContacts',
     fields: {
-        Users: {
-            type: new GraphQLList(UserType),
+        Contacts: {
+            type: new GraphQLList(ContactType),
             resolve(parent, args) {
-                return users;
+                return contacts;
             }
         }
     }

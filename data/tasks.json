@@ -1,0 +1,4098 @@
+[
+    {
+        "text": "Call to clarify customer requirements.",
+        "date": null,
+        "status": "0",
+        "priority": null,
+        "manager": "Samantha Bright",
+        "contactId": 35
+    },
+    {
+        "text": "Send pictures/brochures of new products.",
+        "date": null,
+        "status": "0",
+        "priority": null,
+        "manager": "Samantha Bright",
+        "contactId": 35
+    },
+    {
+        "text": "Obtain CEO contact information.",
+        "date": null,
+        "status": "1",
+        "priority": null,
+        "manager": "Samantha Bright",
+        "contactId": 35
+    },
+    {
+        "text": "Create requested product comparison report.",
+        "date": null,
+        "status": "1",
+        "priority": null,
+        "manager": "Samantha Bright",
+        "contactId": 35
+    },
+    {
+        "text": "Generate a quote.",
+        "date": null,
+        "status": "1",
+        "priority": null,
+        "manager": "Samantha Bright",
+        "contactId": 35
+    },
+    {
+        "text": "Follow up and address recent feedback.",
+        "date": null,
+        "status": "1",
+        "priority": null,
+        "manager": "Samantha Bright",
+        "contactId": 35
+    },
+    {
+        "text": "Apply discounts and generate a binding offer.",
+        "date": null,
+        "status": "1",
+        "priority": null,
+        "manager": "Samantha Bright",
+        "contactId": 35
+    },
+    {
+        "text": "Obtain feedback on new equipment.",
+        "date": null,
+        "status": "1",
+        "priority": null,
+        "manager": "Samantha Bright",
+        "contactId": 35
+    },
+    {
+        "text": "Send SWAG to customer.",
+        "date": null,
+        "status": "1",
+        "priority": null,
+        "manager": "Samantha Bright",
+        "contactId": 35
+    },
+    {
+        "text": "Ask if upgrade is required.",
+        "date": null,
+        "status": "1",
+        "priority": null,
+        "manager": "Samantha Bright",
+        "contactId": 35
+    },
+    {
+        "text": "Call to clarify customer requirements.",
+        "date": "2020-12-26T14:00:00",
+        "status": "Open",
+        "priority": "Low",
+        "manager": "Samantha Bright",
+        "contactId": 9
+    },
+    {
+        "text": "Send pictures/brochures of new products.",
+        "date": "2020-12-20T14:00:00",
+        "status": "Open",
+        "priority": "Normal",
+        "manager": "Samantha Bright",
+        "contactId": 9
+    },
+    {
+        "text": "Follow up and discuss the offer.",
+        "date": "2020-12-25T14:00:00",
+        "status": "Open",
+        "priority": "High",
+        "manager": "Samantha Bright",
+        "contactId": 9
+    },
+    {
+        "text": "Obtain CEO contact information.",
+        "date": "2020-12-19T14:00:00",
+        "status": "In Progress",
+        "priority": "Low",
+        "manager": "Samantha Bright",
+        "contactId": 9
+    },
+    {
+        "text": "Create requested product comparison report.",
+        "date": "2020-12-24T14:00:00",
+        "status": "In Progress",
+        "priority": "Normal",
+        "manager": "Samantha Bright",
+        "contactId": 9
+    },
+    {
+        "text": "Generate a quote.",
+        "date": "2020-12-18T14:00:00",
+        "status": "Deferred",
+        "priority": "High",
+        "manager": "Samantha Bright",
+        "contactId": 9
+    },
+    {
+        "text": "Follow up and address recent feedback.",
+        "date": "2020-12-23T14:00:00",
+        "status": "In Progress",
+        "priority": "Low",
+        "manager": "Samantha Bright",
+        "contactId": 9
+    },
+    {
+        "text": "Apply discounts and generate a binding offer.",
+        "date": "2020-12-17T14:00:00",
+        "status": "In Progress",
+        "priority": "Normal",
+        "manager": "Samantha Bright",
+        "contactId": 9
+    },
+    {
+        "text": "Send SWAG to customer.",
+        "date": "2020-12-22T14:00:00",
+        "status": "Completed",
+        "priority": "High",
+        "manager": "Samantha Bright",
+        "contactId": 9
+    },
+    {
+        "text": "Ask if upgrade is required.",
+        "date": "2020-12-16T14:00:00",
+        "status": "Completed",
+        "priority": "Low",
+        "manager": "Samantha Bright",
+        "contactId": 9
+    },
+    {
+        "text": "Call to clarify customer requirements.",
+        "date": null,
+        "status": "0",
+        "priority": null,
+        "manager": "Samantha Bright",
+        "contactId": 29
+    },
+    {
+        "text": "Send pictures/brochures of new products.",
+        "date": null,
+        "status": "0",
+        "priority": null,
+        "manager": "Samantha Bright",
+        "contactId": 29
+    },
+    {
+        "text": "Follow up and discuss the offer.",
+        "date": null,
+        "status": "0",
+        "priority": null,
+        "manager": "Samantha Bright",
+        "contactId": 29
+    },
+    {
+        "text": "Create requested product comparison report.",
+        "date": null,
+        "status": "1",
+        "priority": null,
+        "manager": "Samantha Bright",
+        "contactId": 29
+    },
+    {
+        "text": "Generate a quote.",
+        "date": null,
+        "status": "1",
+        "priority": null,
+        "manager": "Samantha Bright",
+        "contactId": 29
+    },
+    {
+        "text": "Follow up and address recent feedback.",
+        "date": null,
+        "status": "1",
+        "priority": null,
+        "manager": "Samantha Bright",
+        "contactId": 29
+    },
+    {
+        "text": "Apply discounts and generate a binding offer.",
+        "date": null,
+        "status": "1",
+        "priority": null,
+        "manager": "Samantha Bright",
+        "contactId": 29
+    },
+    {
+        "text": "Obtain feedback on new equipment.",
+        "date": null,
+        "status": "1",
+        "priority": null,
+        "manager": "Samantha Bright",
+        "contactId": 29
+    },
+    {
+        "text": "Send SWAG to customer.",
+        "date": null,
+        "status": "1",
+        "priority": null,
+        "manager": "Samantha Bright",
+        "contactId": 29
+    },
+    {
+        "text": "Ask if upgrade is required.",
+        "date": null,
+        "status": "1",
+        "priority": null,
+        "manager": "Samantha Bright",
+        "contactId": 29
+    },
+    {
+        "text": "Call to clarify customer requirements.",
+        "date": null,
+        "status": "0",
+        "priority": null,
+        "manager": "John Heart",
+        "contactId": 32
+    },
+    {
+        "text": "Follow up and discuss the offer.",
+        "date": null,
+        "status": "1",
+        "priority": null,
+        "manager": "John Heart",
+        "contactId": 32
+    },
+    {
+        "text": "Obtain CEO contact information.",
+        "date": null,
+        "status": "1",
+        "priority": null,
+        "manager": "John Heart",
+        "contactId": 32
+    },
+    {
+        "text": "Create requested product comparison report.",
+        "date": null,
+        "status": "1",
+        "priority": null,
+        "manager": "John Heart",
+        "contactId": 32
+    },
+    {
+        "text": "Generate a quote.",
+        "date": null,
+        "status": "1",
+        "priority": null,
+        "manager": "John Heart",
+        "contactId": 32
+    },
+    {
+        "text": "Follow up and address recent feedback.",
+        "date": null,
+        "status": "1",
+        "priority": null,
+        "manager": "John Heart",
+        "contactId": 32
+    },
+    {
+        "text": "Apply discounts and generate a binding offer.",
+        "date": null,
+        "status": "1",
+        "priority": null,
+        "manager": "John Heart",
+        "contactId": 32
+    },
+    {
+        "text": "Obtain feedback on new equipment.",
+        "date": null,
+        "status": "1",
+        "priority": null,
+        "manager": "John Heart",
+        "contactId": 32
+    },
+    {
+        "text": "Send SWAG to customer.",
+        "date": null,
+        "status": "1",
+        "priority": null,
+        "manager": "John Heart",
+        "contactId": 32
+    },
+    {
+        "text": "Ask if upgrade is required.",
+        "date": null,
+        "status": "1",
+        "priority": null,
+        "manager": "John Heart",
+        "contactId": 32
+    },
+    {
+        "text": "Send pictures/brochures of new products.",
+        "date": null,
+        "status": "1",
+        "priority": null,
+        "manager": "John Heart",
+        "contactId": 42
+    },
+    {
+        "text": "Follow up and discuss the offer.",
+        "date": null,
+        "status": "1",
+        "priority": null,
+        "manager": "John Heart",
+        "contactId": 42
+    },
+    {
+        "text": "Obtain CEO contact information.",
+        "date": null,
+        "status": "1",
+        "priority": null,
+        "manager": "John Heart",
+        "contactId": 42
+    },
+    {
+        "text": "Create requested product comparison report.",
+        "date": null,
+        "status": "1",
+        "priority": null,
+        "manager": "John Heart",
+        "contactId": 42
+    },
+    {
+        "text": "Generate a quote.",
+        "date": null,
+        "status": "1",
+        "priority": null,
+        "manager": "John Heart",
+        "contactId": 42
+    },
+    {
+        "text": "Follow up and address recent feedback.",
+        "date": null,
+        "status": "1",
+        "priority": null,
+        "manager": "John Heart",
+        "contactId": 42
+    },
+    {
+        "text": "Apply discounts and generate a binding offer.",
+        "date": null,
+        "status": "1",
+        "priority": null,
+        "manager": "John Heart",
+        "contactId": 42
+    },
+    {
+        "text": "Obtain feedback on new equipment.",
+        "date": null,
+        "status": "1",
+        "priority": null,
+        "manager": "John Heart",
+        "contactId": 42
+    },
+    {
+        "text": "Send SWAG to customer.",
+        "date": null,
+        "status": "1",
+        "priority": null,
+        "manager": "John Heart",
+        "contactId": 42
+    },
+    {
+        "text": "Ask if upgrade is required.",
+        "date": null,
+        "status": "1",
+        "priority": null,
+        "manager": "John Heart",
+        "contactId": 42
+    },
+    {
+        "text": "Call to clarify customer requirements.",
+        "date": "2020-12-21T14:00:00",
+        "status": "Open",
+        "priority": "Normal",
+        "manager": "John Heart",
+        "contactId": 10
+    },
+    {
+        "text": "Send pictures/brochures of new products.",
+        "date": "2020-12-15T14:00:00",
+        "status": "Open",
+        "priority": "High",
+        "manager": "John Heart",
+        "contactId": 10
+    },
+    {
+        "text": "Follow up and discuss the offer.",
+        "date": "2020-12-20T14:00:00",
+        "status": "Open",
+        "priority": "Low",
+        "manager": "John Heart",
+        "contactId": 10
+    },
+    {
+        "text": "Create requested product comparison report.",
+        "date": "2020-12-14T14:00:00",
+        "status": "Completed",
+        "priority": "Normal",
+        "manager": "John Heart",
+        "contactId": 10
+    },
+    {
+        "text": "Generate a quote.",
+        "date": "2020-12-19T14:00:00",
+        "status": "Completed",
+        "priority": "High",
+        "manager": "John Heart",
+        "contactId": 10
+    },
+    {
+        "text": "Follow up and address recent feedback.",
+        "date": "2020-12-18T14:00:00",
+        "status": "In Progress",
+        "priority": "Low",
+        "manager": "John Heart",
+        "contactId": 10
+    },
+    {
+        "text": "Apply discounts and generate a binding offer.",
+        "date": "2020-12-13T14:00:00",
+        "status": "In Progress",
+        "priority": "Normal",
+        "manager": "John Heart",
+        "contactId": 10
+    },
+    {
+        "text": "Obtain feedback on new equipment.",
+        "date": "2020-12-17T14:00:00",
+        "status": "Deferred",
+        "priority": "High",
+        "manager": "John Heart",
+        "contactId": 10
+    },
+    {
+        "text": "Send SWAG to customer.",
+        "date": "2020-12-12T14:00:00",
+        "status": "Completed",
+        "priority": "Low",
+        "manager": "John Heart",
+        "contactId": 10
+    },
+    {
+        "text": "Ask if upgrade is required.",
+        "date": "2020-12-16T14:00:00",
+        "status": "Completed",
+        "priority": "Normal",
+        "manager": "John Heart",
+        "contactId": 10
+    },
+    {
+        "text": "Call to clarify customer requirements.",
+        "date": "2020-11-15T14:00:00",
+        "status": "Open",
+        "priority": "Low",
+        "manager": "Samantha Bright",
+        "contactId": 17
+    },
+    {
+        "text": "Send pictures/brochures of new products.",
+        "date": "2020-11-10T14:00:00",
+        "status": "Open",
+        "priority": "Normal",
+        "manager": "Samantha Bright",
+        "contactId": 17
+    },
+    {
+        "text": "Follow up and discuss the offer.",
+        "date": "2020-11-14T14:00:00",
+        "status": "In Progress",
+        "priority": "High",
+        "manager": "Samantha Bright",
+        "contactId": 17
+    },
+    {
+        "text": "Obtain CEO contact information.",
+        "date": "2020-11-09T14:00:00",
+        "status": "In Progress",
+        "priority": "Low",
+        "manager": "Samantha Bright",
+        "contactId": 17
+    },
+    {
+        "text": "Create requested product comparison report.",
+        "date": "2020-11-13T14:00:00",
+        "status": "In Progress",
+        "priority": "Normal",
+        "manager": "Samantha Bright",
+        "contactId": 17
+    },
+    {
+        "text": "Generate a quote.",
+        "date": "2020-11-08T14:00:00",
+        "status": "In Progress",
+        "priority": "High",
+        "manager": "Samantha Bright",
+        "contactId": 17
+    },
+    {
+        "text": "Follow up and address recent feedback.",
+        "date": "2020-11-12T14:00:00",
+        "status": "Deferred",
+        "priority": "Low",
+        "manager": "Samantha Bright",
+        "contactId": 17
+    },
+    {
+        "text": "Apply discounts and generate a binding offer.",
+        "date": "2020-11-07T14:00:00",
+        "status": "Deferred",
+        "priority": "Normal",
+        "manager": "Samantha Bright",
+        "contactId": 17
+    },
+    {
+        "text": "Obtain feedback on new equipment.",
+        "date": "2020-11-11T14:00:00",
+        "status": "Deferred",
+        "priority": "High",
+        "manager": "Samantha Bright",
+        "contactId": 17
+    },
+    {
+        "text": "Send SWAG to customer.",
+        "date": "2020-11-06T14:00:00",
+        "status": "Completed",
+        "priority": "Low",
+        "manager": "Samantha Bright",
+        "contactId": 17
+    },
+    {
+        "text": "Ask if upgrade is required.",
+        "date": "2020-11-10T14:00:00",
+        "status": "Completed",
+        "priority": "Normal",
+        "manager": "Samantha Bright",
+        "contactId": 17
+    },
+    {
+        "text": "Call to clarify customer requirements.",
+        "date": "2020-11-30T14:00:00",
+        "status": "Open",
+        "priority": "Low",
+        "manager": "John Heart",
+        "contactId": 14
+    },
+    {
+        "text": "Send pictures/brochures of new products.",
+        "date": "2020-11-25T14:00:00",
+        "status": "Open",
+        "priority": "Normal",
+        "manager": "John Heart",
+        "contactId": 14
+    },
+    {
+        "text": "Follow up and discuss the offer.",
+        "date": "2020-11-29T14:00:00",
+        "status": "Open",
+        "priority": "High",
+        "manager": "John Heart",
+        "contactId": 14
+    },
+    {
+        "text": "Obtain CEO contact information.",
+        "date": "2020-11-24T14:00:00",
+        "status": "In Progress",
+        "priority": "Low",
+        "manager": "John Heart",
+        "contactId": 14
+    },
+    {
+        "text": "Create requested product comparison report.",
+        "date": "2020-11-28T14:00:00",
+        "status": "In Progress",
+        "priority": "Normal",
+        "manager": "John Heart",
+        "contactId": 14
+    },
+    {
+        "text": "Generate a quote.",
+        "date": "2020-11-23T14:00:00",
+        "status": "In Progress",
+        "priority": "High",
+        "manager": "John Heart",
+        "contactId": 14
+    },
+    {
+        "text": "Apply discounts and generate a binding offer.",
+        "date": "2020-11-27T14:00:00",
+        "status": "Completed",
+        "priority": "Low",
+        "manager": "John Heart",
+        "contactId": 14
+    },
+    {
+        "text": "Obtain feedback on new equipment.",
+        "date": "2020-11-22T14:00:00",
+        "status": "Completed",
+        "priority": "Normal",
+        "manager": "John Heart",
+        "contactId": 14
+    },
+    {
+        "text": "Send SWAG to customer.",
+        "date": "2020-11-26T14:00:00",
+        "status": "Completed",
+        "priority": "High",
+        "manager": "John Heart",
+        "contactId": 14
+    },
+    {
+        "text": "Ask if upgrade is required.",
+        "date": "2020-11-21T14:00:00",
+        "status": "Completed",
+        "priority": "Low",
+        "manager": "John Heart",
+        "contactId": 14
+    },
+    {
+        "text": "Call to clarify customer requirements.",
+        "date": "2021-01-29T11:00:00",
+        "status": "Open",
+        "priority": "Low",
+        "manager": "Samantha Bright",
+        "contactId": 3
+    },
+    {
+        "text": "Send pictures/brochures of new products.",
+        "date": "2021-01-22T05:26:40",
+        "status": "In Progress",
+        "priority": "Normal",
+        "manager": "Samantha Bright",
+        "contactId": 3
+    },
+    {
+        "text": "Follow up and discuss the offer.",
+        "date": "2021-01-28T10:00:00",
+        "status": "Deferred",
+        "priority": "High",
+        "manager": "Samantha Bright",
+        "contactId": 3
+    },
+    {
+        "text": "Obtain CEO contact information.",
+        "date": "2021-01-21T04:26:40",
+        "status": "Completed",
+        "priority": "Low",
+        "manager": "Samantha Bright",
+        "contactId": 3
+    },
+    {
+        "text": "Create requested product comparison report.",
+        "date": "2021-01-27T09:00:00",
+        "status": "Open",
+        "priority": "Normal",
+        "manager": "Samantha Bright",
+        "contactId": 3
+    },
+    {
+        "text": "Generate a quote.",
+        "date": "2021-01-21T03:26:40",
+        "status": "In Progress",
+        "priority": "High",
+        "manager": "Samantha Bright",
+        "contactId": 3
+    },
+    {
+        "text": "Follow up and address recent feedback.",
+        "date": "2021-01-26T08:00:00",
+        "status": "Deferred",
+        "priority": "Low",
+        "manager": "Samantha Bright",
+        "contactId": 3
+    },
+    {
+        "text": "Apply discounts and generate a binding offer.",
+        "date": "2021-01-19T02:26:40",
+        "status": "Completed",
+        "priority": "Normal",
+        "manager": "Samantha Bright",
+        "contactId": 3
+    },
+    {
+        "text": "Obtain feedback on new equipment.",
+        "date": "2021-01-25T07:00:00",
+        "status": "Open",
+        "priority": "High",
+        "manager": "Samantha Bright",
+        "contactId": 3
+    },
+    {
+        "text": "Send SWAG to customer.",
+        "date": "2021-01-18T01:26:40",
+        "status": "In Progress",
+        "priority": "Low",
+        "manager": "Samantha Bright",
+        "contactId": 3
+    },
+    {
+        "text": "Ask if upgrade is required.",
+        "date": "2021-01-24T06:00:00",
+        "status": "Deferred",
+        "priority": "Normal",
+        "manager": "Samantha Bright",
+        "contactId": 3
+    },
+    {
+        "text": "Call to clarify customer requirements.",
+        "date": "2020-12-26T14:00:00",
+        "status": "Open",
+        "priority": "Normal",
+        "manager": "John Heart",
+        "contactId": 8
+    },
+    {
+        "text": "Send pictures/brochures of new products.",
+        "date": "2021-01-02T14:00:00",
+        "status": "Open",
+        "priority": "High",
+        "manager": "John Heart",
+        "contactId": 8
+    },
+    {
+        "text": "Follow up and discuss the offer.",
+        "date": "2020-12-25T14:00:00",
+        "status": "In Progress",
+        "priority": "Low",
+        "manager": "John Heart",
+        "contactId": 8
+    },
+    {
+        "text": "Obtain CEO contact information.",
+        "date": "2020-12-31T14:00:00",
+        "status": "In Progress",
+        "priority": "Normal",
+        "manager": "John Heart",
+        "contactId": 8
+    },
+    {
+        "text": "Create requested product comparison report.",
+        "date": "2020-12-24T14:00:00",
+        "status": "In Progress",
+        "priority": "High",
+        "manager": "John Heart",
+        "contactId": 8
+    },
+    {
+        "text": "Generate a quote.",
+        "date": "2020-12-30T14:00:00",
+        "status": "Deferred",
+        "priority": "Low",
+        "manager": "John Heart",
+        "contactId": 8
+    },
+    {
+        "text": "Follow up and address recent feedback.",
+        "date": "2020-12-23T14:00:00",
+        "status": "Completed",
+        "priority": "Normal",
+        "manager": "John Heart",
+        "contactId": 8
+    },
+    {
+        "text": "Apply discounts and generate a binding offer.",
+        "date": "2020-12-28T14:00:00",
+        "status": "Completed",
+        "priority": "High",
+        "manager": "John Heart",
+        "contactId": 8
+    },
+    {
+        "text": "Obtain feedback on new equipment.",
+        "date": "2020-12-22T14:00:00",
+        "status": "Open",
+        "priority": "Low",
+        "manager": "John Heart",
+        "contactId": 8
+    },
+    {
+        "text": "Send SWAG to customer.",
+        "date": "2020-12-27T14:00:00",
+        "status": "Completed",
+        "priority": "Normal",
+        "manager": "John Heart",
+        "contactId": 8
+    },
+    {
+        "text": "Ask if upgrade is required.",
+        "date": "2020-12-21T14:00:00",
+        "status": "In Progress",
+        "priority": "High",
+        "manager": "John Heart",
+        "contactId": 8
+    },
+    {
+        "text": "Call to clarify customer requirements.",
+        "date": "2021-01-17T00:26:40",
+        "status": "In Progress",
+        "priority": "High",
+        "manager": "John Heart",
+        "contactId": 4
+    },
+    {
+        "text": "Send pictures/brochures of new products.",
+        "date": "2021-01-23T05:00:00",
+        "status": "In Progress",
+        "priority": "Low",
+        "manager": "John Heart",
+        "contactId": 4
+    },
+    {
+        "text": "Follow up and discuss the offer.",
+        "date": "2021-01-15T23:26:40",
+        "status": "Open",
+        "priority": "Normal",
+        "manager": "John Heart",
+        "contactId": 4
+    },
+    {
+        "text": "Obtain CEO contact information.",
+        "date": "2021-01-22T04:00:00",
+        "status": "In Progress",
+        "priority": "High",
+        "manager": "John Heart",
+        "contactId": 4
+    },
+    {
+        "text": "Create requested product comparison report.",
+        "date": "2021-01-14T22:26:40",
+        "status": "In Progress",
+        "priority": "Low",
+        "manager": "John Heart",
+        "contactId": 4
+    },
+    {
+        "text": "Generate a quote.",
+        "date": "2021-01-21T03:00:00",
+        "status": "Open",
+        "priority": "Normal",
+        "manager": "John Heart",
+        "contactId": 4
+    },
+    {
+        "text": "Follow up and address recent feedback.",
+        "date": "2021-01-13T21:26:40",
+        "status": "In Progress",
+        "priority": "High",
+        "manager": "John Heart",
+        "contactId": 4
+    },
+    {
+        "text": "Apply discounts and generate a binding offer.",
+        "date": "2021-01-20T02:00:00",
+        "status": "In Progress",
+        "priority": "Low",
+        "manager": "John Heart",
+        "contactId": 4
+    },
+    {
+        "text": "Obtain feedback on new equipment.",
+        "date": "2021-01-12T20:26:40",
+        "status": "In Progress",
+        "priority": "Normal",
+        "manager": "John Heart",
+        "contactId": 4
+    },
+    {
+        "text": "Send SWAG to customer.",
+        "date": "2021-01-19T01:00:00",
+        "status": "Completed",
+        "priority": "High",
+        "manager": "John Heart",
+        "contactId": 4
+    },
+    {
+        "text": "Ask if upgrade is required.",
+        "date": "2021-01-11T19:26:40",
+        "status": "Completed",
+        "priority": "Low",
+        "manager": "John Heart",
+        "contactId": 4
+    },
+    {
+        "text": "Call to clarify customer requirements.",
+        "date": "2020-11-25T14:00:00",
+        "status": "Open",
+        "priority": "Normal",
+        "manager": "Samantha Bright",
+        "contactId": 15
+    },
+    {
+        "text": "Send pictures/brochures of new products.",
+        "date": "2020-11-20T14:00:00",
+        "status": "In Progress",
+        "priority": "High",
+        "manager": "Samantha Bright",
+        "contactId": 15
+    },
+    {
+        "text": "Follow up and discuss the offer.",
+        "date": "2020-11-24T14:00:00",
+        "status": "In Progress",
+        "priority": "Low",
+        "manager": "Samantha Bright",
+        "contactId": 15
+    },
+    {
+        "text": "Create requested product comparison report.",
+        "date": "2020-11-19T14:00:00",
+        "status": "Completed",
+        "priority": "Normal",
+        "manager": "Samantha Bright",
+        "contactId": 15
+    },
+    {
+        "text": "Generate a quote.",
+        "date": "2020-11-23T14:00:00",
+        "status": "Completed",
+        "priority": "High",
+        "manager": "Samantha Bright",
+        "contactId": 15
+    },
+    {
+        "text": "Follow up and address recent feedback.",
+        "date": "2020-11-18T14:00:00",
+        "status": "Completed",
+        "priority": "Low",
+        "manager": "Samantha Bright",
+        "contactId": 15
+    },
+    {
+        "text": "Apply discounts and generate a binding offer.",
+        "date": "2020-11-22T14:00:00",
+        "status": "Completed",
+        "priority": "Normal",
+        "manager": "Samantha Bright",
+        "contactId": 15
+    },
+    {
+        "text": "Obtain feedback on new equipment.",
+        "date": "2020-11-17T14:00:00",
+        "status": "Completed",
+        "priority": "High",
+        "manager": "Samantha Bright",
+        "contactId": 15
+    },
+    {
+        "text": "Send SWAG to customer.",
+        "date": "2020-11-21T14:00:00",
+        "status": "Completed",
+        "priority": "Low",
+        "manager": "Samantha Bright",
+        "contactId": 15
+    },
+    {
+        "text": "Ask if upgrade is required.",
+        "date": "2020-11-16T14:00:00",
+        "status": "Completed",
+        "priority": "Normal",
+        "manager": "Samantha Bright",
+        "contactId": 15
+    },
+    {
+        "text": "Call to clarify customer requirements.",
+        "date": null,
+        "status": "0",
+        "priority": null,
+        "manager": "John Heart",
+        "contactId": 28
+    },
+    {
+        "text": "Send pictures/brochures of new products.",
+        "date": null,
+        "status": "0",
+        "priority": null,
+        "manager": "John Heart",
+        "contactId": 28
+    },
+    {
+        "text": "Follow up and discuss the offer.",
+        "date": null,
+        "status": "0",
+        "priority": null,
+        "manager": "John Heart",
+        "contactId": 28
+    },
+    {
+        "text": "Obtain CEO contact information.",
+        "date": null,
+        "status": "0",
+        "priority": null,
+        "manager": "John Heart",
+        "contactId": 28
+    },
+    {
+        "text": "Create requested product comparison report.",
+        "date": null,
+        "status": "0",
+        "priority": null,
+        "manager": "John Heart",
+        "contactId": 28
+    },
+    {
+        "text": "Generate a quote.",
+        "date": null,
+        "status": "0",
+        "priority": null,
+        "manager": "John Heart",
+        "contactId": 28
+    },
+    {
+        "text": "Follow up and address recent feedback.",
+        "date": null,
+        "status": "0",
+        "priority": null,
+        "manager": "John Heart",
+        "contactId": 28
+    },
+    {
+        "text": "Apply discounts and generate a binding offer.",
+        "date": null,
+        "status": "0",
+        "priority": null,
+        "manager": "John Heart",
+        "contactId": 28
+    },
+    {
+        "text": "Obtain feedback on new equipment.",
+        "date": null,
+        "status": "0",
+        "priority": null,
+        "manager": "John Heart",
+        "contactId": 28
+    },
+    {
+        "text": "Send SWAG to customer.",
+        "date": null,
+        "status": "1",
+        "priority": null,
+        "manager": "John Heart",
+        "contactId": 28
+    },
+    {
+        "text": "Ask if upgrade is required.",
+        "date": null,
+        "status": "1",
+        "priority": null,
+        "manager": "John Heart",
+        "contactId": 28
+    },
+    {
+        "text": "Call to clarify customer requirements.",
+        "date": "2020-12-11T14:00:00",
+        "status": "Open",
+        "priority": "High",
+        "manager": "Samantha Bright",
+        "contactId": 11
+    },
+    {
+        "text": "Send pictures/brochures of new products.",
+        "date": "2020-12-15T14:00:00",
+        "status": "Open",
+        "priority": "Low",
+        "manager": "Samantha Bright",
+        "contactId": 11
+    },
+    {
+        "text": "Follow up and discuss the offer.",
+        "date": "2020-12-10T14:00:00",
+        "status": "Open",
+        "priority": "Normal",
+        "manager": "Samantha Bright",
+        "contactId": 11
+    },
+    {
+        "text": "Obtain CEO contact information.",
+        "date": "2020-12-14T14:00:00",
+        "status": "In Progress",
+        "priority": "High",
+        "manager": "Samantha Bright",
+        "contactId": 11
+    },
+    {
+        "text": "Create requested product comparison report.",
+        "date": "2020-12-09T14:00:00",
+        "status": "In Progress",
+        "priority": "Low",
+        "manager": "Samantha Bright",
+        "contactId": 11
+    },
+    {
+        "text": "Generate a quote.",
+        "date": "2020-12-13T14:00:00",
+        "status": "In Progress",
+        "priority": "Normal",
+        "manager": "Samantha Bright",
+        "contactId": 11
+    },
+    {
+        "text": "Follow up and address recent feedback.",
+        "date": "2020-12-08T14:00:00",
+        "status": "In Progress",
+        "priority": "High",
+        "manager": "Samantha Bright",
+        "contactId": 11
+    },
+    {
+        "text": "Apply discounts and generate a binding offer.",
+        "date": "2020-12-12T14:00:00",
+        "status": "Completed",
+        "priority": "Low",
+        "manager": "Samantha Bright",
+        "contactId": 11
+    },
+    {
+        "text": "Obtain feedback on new equipment.",
+        "date": "2020-12-07T14:00:00",
+        "status": "Completed",
+        "priority": "Normal",
+        "manager": "Samantha Bright",
+        "contactId": 11
+    },
+    {
+        "text": "Send SWAG to customer.",
+        "date": "2020-12-11T14:00:00",
+        "status": "Completed",
+        "priority": "High",
+        "manager": "Samantha Bright",
+        "contactId": 11
+    },
+    {
+        "text": "Ask if upgrade is required.",
+        "date": "2020-12-06T14:00:00",
+        "status": "Completed",
+        "priority": "Low",
+        "manager": "Samantha Bright",
+        "contactId": 11
+    },
+    {
+        "text": "Send pictures/brochures of new products.",
+        "date": "2021-01-05T19:00:00",
+        "status": "Completed",
+        "priority": "High",
+        "manager": "John Heart",
+        "contactId": 6
+    },
+    {
+        "text": "Follow up and discuss the offer.",
+        "date": "2021-01-12T13:26:40",
+        "status": "Completed",
+        "priority": "Low",
+        "manager": "John Heart",
+        "contactId": 6
+    },
+    {
+        "text": "Obtain CEO contact information.",
+        "date": "2021-01-04T18:00:00",
+        "status": "In Progress",
+        "priority": "Normal",
+        "manager": "John Heart",
+        "contactId": 6
+    },
+    {
+        "text": "Create requested product comparison report.",
+        "date": "2021-01-11T12:26:40",
+        "status": "Open",
+        "priority": "High",
+        "manager": "John Heart",
+        "contactId": 6
+    },
+    {
+        "text": "Generate a quote.",
+        "date": "2021-01-03T17:00:00",
+        "status": "Open",
+        "priority": "Low",
+        "manager": "John Heart",
+        "contactId": 6
+    },
+    {
+        "text": "Follow up and address recent feedback.",
+        "date": "2021-01-10T11:26:40",
+        "status": "Completed",
+        "priority": "Normal",
+        "manager": "John Heart",
+        "contactId": 6
+    },
+    {
+        "text": "Apply discounts and generate a binding offer.",
+        "date": "2021-01-02T16:00:00",
+        "status": "In Progress",
+        "priority": "High",
+        "manager": "John Heart",
+        "contactId": 6
+    },
+    {
+        "text": "Obtain feedback on new equipment.",
+        "date": "2021-01-09T10:26:40",
+        "status": "In Progress",
+        "priority": "Low",
+        "manager": "John Heart",
+        "contactId": 6
+    },
+    {
+        "text": "Send SWAG to customer.",
+        "date": "2021-01-01T16:00:00",
+        "status": "Deferred",
+        "priority": "Normal",
+        "manager": "John Heart",
+        "contactId": 6
+    },
+    {
+        "text": "Ask if upgrade is required.",
+        "date": "2021-01-08T10:26:40",
+        "status": "Completed",
+        "priority": "High",
+        "manager": "John Heart",
+        "contactId": 6
+    },
+    {
+        "text": "Call to clarify customer requirements.",
+        "date": "2020-12-10T14:00:00",
+        "status": "In Progress",
+        "priority": "Normal",
+        "manager": "Arthur Miller",
+        "contactId": 12
+    },
+    {
+        "text": "Send pictures/brochures of new products.",
+        "date": "2020-12-05T14:00:00",
+        "status": "Open",
+        "priority": "High",
+        "manager": "Samantha Bright",
+        "contactId": 12
+    },
+    {
+        "text": "Follow up and discuss the offer.",
+        "date": "2020-12-09T14:00:00",
+        "status": "Open",
+        "priority": "Low",
+        "manager": "Greta Sims",
+        "contactId": 12
+    },
+    {
+        "text": "Obtain CEO contact information.",
+        "date": "2020-12-04T14:00:00",
+        "status": "In Progress",
+        "priority": "Normal",
+        "manager": "Arthur Miller",
+        "contactId": 12
+    },
+    {
+        "text": "Create requested product comparison report.",
+        "date": "2020-12-08T14:00:00",
+        "status": "In Progress",
+        "priority": "High",
+        "manager": "Samantha Bright",
+        "contactId": 12
+    },
+    {
+        "text": "Generate a quote.",
+        "date": "2020-12-03T14:00:00",
+        "status": "In Progress",
+        "priority": "Low",
+        "manager": "Greta Sims",
+        "contactId": 12
+    },
+    {
+        "text": "Apply discounts and generate a binding offer.",
+        "date": "2020-12-07T14:00:00",
+        "status": "Completed",
+        "priority": "Normal",
+        "manager": "Greta Sims",
+        "contactId": 12
+    },
+    {
+        "text": "Obtain feedback on new equipment.",
+        "date": "2020-12-02T14:00:00",
+        "status": "Completed",
+        "priority": "High",
+        "manager": "Robert Reagan",
+        "contactId": 12
+    },
+    {
+        "text": "Send SWAG to customer.",
+        "date": "2020-12-06T14:00:00",
+        "status": "Completed",
+        "priority": "Low",
+        "manager": "Samantha Bright",
+        "contactId": 12
+    },
+    {
+        "text": "Ask if upgrade is required.",
+        "date": "2020-12-01T14:00:00",
+        "status": "Completed",
+        "priority": "Normal",
+        "manager": "Arthur Miller",
+        "contactId": 12
+    },
+    {
+        "text": "Follow up and address recent feedback.",
+        "date": "2020-12-05T14:00:00",
+        "status": "In Progress",
+        "priority": "High",
+        "manager": "Robert Reagan",
+        "contactId": 12
+    },
+    {
+        "text": "Preparation",
+        "date": "2020-12-10T10:00:00",
+        "status": null,
+        "priority": null,
+        "manager": "Greta Sims",
+        "contactId": 12
+    },
+    {
+        "text": "Follow-up",
+        "date": "2020-12-05T10:00:00",
+        "status": null,
+        "priority": null,
+        "manager": "Greta Sims",
+        "contactId": 12
+    },
+    {
+        "text": "Presentation",
+        "date": "2020-12-06T10:00:00",
+        "status": null,
+        "priority": null,
+        "manager": "Robert Reagan",
+        "contactId": 12
+    },
+    {
+        "text": "Handling objections",
+        "date": "2020-12-09T10:00:00",
+        "status": null,
+        "priority": null,
+        "manager": "Robert Reagan",
+        "contactId": 12
+    },
+    {
+        "text": "Sales Management",
+        "date": "2020-12-10T10:00:00",
+        "status": null,
+        "priority": null,
+        "manager": "Samantha Bright",
+        "contactId": 12
+    },
+    {
+        "text": "Send pictures/brochures of new products.",
+        "date": null,
+        "status": "1",
+        "priority": null,
+        "manager": "Samantha Bright",
+        "contactId": 43
+    },
+    {
+        "text": "Follow up and discuss the offer.",
+        "date": null,
+        "status": "1",
+        "priority": null,
+        "manager": "Samantha Bright",
+        "contactId": 43
+    },
+    {
+        "text": "Obtain CEO contact information.",
+        "date": null,
+        "status": "1",
+        "priority": null,
+        "manager": "Samantha Bright",
+        "contactId": 43
+    },
+    {
+        "text": "Create requested product comparison report.",
+        "date": null,
+        "status": "1",
+        "priority": null,
+        "manager": "Samantha Bright",
+        "contactId": 43
+    },
+    {
+        "text": "Generate a quote.",
+        "date": null,
+        "status": "1",
+        "priority": null,
+        "manager": "Samantha Bright",
+        "contactId": 43
+    },
+    {
+        "text": "Follow up and address recent feedback.",
+        "date": null,
+        "status": "1",
+        "priority": null,
+        "manager": "Samantha Bright",
+        "contactId": 43
+    },
+    {
+        "text": "Apply discounts and generate a binding offer.",
+        "date": null,
+        "status": "1",
+        "priority": null,
+        "manager": "Samantha Bright",
+        "contactId": 43
+    },
+    {
+        "text": "Obtain feedback on new equipment.",
+        "date": null,
+        "status": "1",
+        "priority": null,
+        "manager": "Samantha Bright",
+        "contactId": 43
+    },
+    {
+        "text": "Send SWAG to customer.",
+        "date": null,
+        "status": "1",
+        "priority": null,
+        "manager": "Samantha Bright",
+        "contactId": 43
+    },
+    {
+        "text": "Ask if upgrade is required.",
+        "date": null,
+        "status": "1",
+        "priority": null,
+        "manager": "Samantha Bright",
+        "contactId": 43
+    },
+    {
+        "text": "Call to clarify customer requirements.",
+        "date": null,
+        "status": "0",
+        "priority": null,
+        "manager": "Samantha Bright",
+        "contactId": 25
+    },
+    {
+        "text": "Send pictures/brochures of new products.",
+        "date": null,
+        "status": "0",
+        "priority": null,
+        "manager": "Samantha Bright",
+        "contactId": 25
+    },
+    {
+        "text": "Obtain CEO contact information.",
+        "date": null,
+        "status": "1",
+        "priority": null,
+        "manager": "Samantha Bright",
+        "contactId": 25
+    },
+    {
+        "text": "Create requested product comparison report.",
+        "date": null,
+        "status": "1",
+        "priority": null,
+        "manager": "Samantha Bright",
+        "contactId": 25
+    },
+    {
+        "text": "Generate a quote.",
+        "date": null,
+        "status": "1",
+        "priority": null,
+        "manager": "Samantha Bright",
+        "contactId": 25
+    },
+    {
+        "text": "Follow up and address recent feedback.",
+        "date": null,
+        "status": "1",
+        "priority": null,
+        "manager": "Samantha Bright",
+        "contactId": 25
+    },
+    {
+        "text": "Apply discounts and generate a binding offer.",
+        "date": null,
+        "status": "1",
+        "priority": null,
+        "manager": "Samantha Bright",
+        "contactId": 25
+    },
+    {
+        "text": "Obtain feedback on new equipment.",
+        "date": null,
+        "status": "1",
+        "priority": null,
+        "manager": "Samantha Bright",
+        "contactId": 25
+    },
+    {
+        "text": "Send SWAG to customer.",
+        "date": null,
+        "status": "1",
+        "priority": null,
+        "manager": "Samantha Bright",
+        "contactId": 25
+    },
+    {
+        "text": "Ask if upgrade is required.",
+        "date": null,
+        "status": "1",
+        "priority": null,
+        "manager": "Samantha Bright",
+        "contactId": 25
+    },
+    {
+        "text": "Call to clarify customer requirements.",
+        "date": null,
+        "status": "0",
+        "priority": null,
+        "manager": "Samantha Bright",
+        "contactId": 39
+    },
+    {
+        "text": "Send pictures/brochures of new products.",
+        "date": null,
+        "status": "0",
+        "priority": null,
+        "manager": "Samantha Bright",
+        "contactId": 39
+    },
+    {
+        "text": "Follow up and discuss the offer.",
+        "date": null,
+        "status": "0",
+        "priority": null,
+        "manager": "Samantha Bright",
+        "contactId": 39
+    },
+    {
+        "text": "Obtain CEO contact information.",
+        "date": null,
+        "status": "0",
+        "priority": null,
+        "manager": "Samantha Bright",
+        "contactId": 39
+    },
+    {
+        "text": "Create requested product comparison report.",
+        "date": null,
+        "status": "0",
+        "priority": null,
+        "manager": "Samantha Bright",
+        "contactId": 39
+    },
+    {
+        "text": "Generate a quote.",
+        "date": null,
+        "status": "0",
+        "priority": null,
+        "manager": "Samantha Bright",
+        "contactId": 39
+    },
+    {
+        "text": "Follow up and address recent feedback.",
+        "date": null,
+        "status": "0",
+        "priority": null,
+        "manager": "Samantha Bright",
+        "contactId": 39
+    },
+    {
+        "text": "Apply discounts and generate a binding offer.",
+        "date": null,
+        "status": "0",
+        "priority": null,
+        "manager": "Samantha Bright",
+        "contactId": 39
+    },
+    {
+        "text": "Obtain feedback on new equipment.",
+        "date": null,
+        "status": "0",
+        "priority": null,
+        "manager": "Samantha Bright",
+        "contactId": 39
+    },
+    {
+        "text": "Send SWAG to customer.",
+        "date": null,
+        "status": "1",
+        "priority": null,
+        "manager": "Samantha Bright",
+        "contactId": 39
+    },
+    {
+        "text": "Ask if upgrade is required.",
+        "date": null,
+        "status": "1",
+        "priority": null,
+        "manager": "Samantha Bright",
+        "contactId": 39
+    },
+    {
+        "text": "Call to clarify customer requirements.",
+        "date": "2020-10-16T14:00:00",
+        "status": "Open",
+        "priority": "Low",
+        "manager": "John Heart",
+        "contactId": 22
+    },
+    {
+        "text": "Follow up and discuss the offer.",
+        "date": "2020-10-20T14:00:00",
+        "status": "In Progress",
+        "priority": "Normal",
+        "manager": "John Heart",
+        "contactId": 22
+    },
+    {
+        "text": "Obtain CEO contact information.",
+        "date": "2020-10-15T14:00:00",
+        "status": "Completed",
+        "priority": "High",
+        "manager": "John Heart",
+        "contactId": 22
+    },
+    {
+        "text": "Create requested product comparison report.",
+        "date": "2020-10-19T14:00:00",
+        "status": "Completed",
+        "priority": "Low",
+        "manager": "John Heart",
+        "contactId": 22
+    },
+    {
+        "text": "Generate a quote.",
+        "date": "2020-10-14T14:00:00",
+        "status": "Completed",
+        "priority": "Normal",
+        "manager": "John Heart",
+        "contactId": 22
+    },
+    {
+        "text": "Follow up and address recent feedback.",
+        "date": null,
+        "status": "1",
+        "priority": null,
+        "manager": "John Heart",
+        "contactId": 22
+    },
+    {
+        "text": "Apply discounts and generate a binding offer.",
+        "date": null,
+        "status": "1",
+        "priority": null,
+        "manager": "John Heart",
+        "contactId": 22
+    },
+    {
+        "text": "Obtain feedback on new equipment.",
+        "date": null,
+        "status": "1",
+        "priority": null,
+        "manager": "John Heart",
+        "contactId": 22
+    },
+    {
+        "text": "Send SWAG to customer.",
+        "date": null,
+        "status": "1",
+        "priority": null,
+        "manager": "John Heart",
+        "contactId": 22
+    },
+    {
+        "text": "Ask if upgrade is required.",
+        "date": null,
+        "status": "1",
+        "priority": null,
+        "manager": "John Heart",
+        "contactId": 22
+    },
+    {
+        "text": "Call to clarify customer requirements.",
+        "date": "2020-11-05T14:00:00",
+        "status": "Open",
+        "priority": "High",
+        "manager": "John Heart",
+        "contactId": 18
+    },
+    {
+        "text": "Send pictures/brochures of new products.",
+        "date": "2020-11-09T14:00:00",
+        "status": "In Progress",
+        "priority": "Low",
+        "manager": "John Heart",
+        "contactId": 18
+    },
+    {
+        "text": "Follow up and discuss the offer.",
+        "date": "2020-11-04T14:00:00",
+        "status": "In Progress",
+        "priority": "Normal",
+        "manager": "John Heart",
+        "contactId": 18
+    },
+    {
+        "text": "Obtain CEO contact information.",
+        "date": "2020-11-08T14:00:00",
+        "status": "In Progress",
+        "priority": "High",
+        "manager": "John Heart",
+        "contactId": 18
+    },
+    {
+        "text": "Create requested product comparison report.",
+        "date": "2020-11-03T14:00:00",
+        "status": "Deferred",
+        "priority": "Low",
+        "manager": "John Heart",
+        "contactId": 18
+    },
+    {
+        "text": "Generate a quote.",
+        "date": "2020-11-07T14:00:00",
+        "status": "Deferred",
+        "priority": "Normal",
+        "manager": "John Heart",
+        "contactId": 18
+    },
+    {
+        "text": "Apply discounts and generate a binding offer.",
+        "date": "2020-11-02T14:00:00",
+        "status": "Completed",
+        "priority": "High",
+        "manager": "John Heart",
+        "contactId": 18
+    },
+    {
+        "text": "Obtain feedback on new equipment.",
+        "date": "2020-11-06T14:00:00",
+        "status": "Completed",
+        "priority": "Low",
+        "manager": "John Heart",
+        "contactId": 18
+    },
+    {
+        "text": "Send SWAG to customer.",
+        "date": "2020-11-01T14:00:00",
+        "status": "Completed",
+        "priority": "Normal",
+        "manager": "John Heart",
+        "contactId": 18
+    },
+    {
+        "text": "Ask if upgrade is required.",
+        "date": "2020-11-05T14:00:00",
+        "status": "Completed",
+        "priority": "High",
+        "manager": "John Heart",
+        "contactId": 18
+    },
+    {
+        "text": "Send pictures/brochures of new products.",
+        "date": null,
+        "status": "1",
+        "priority": null,
+        "manager": "Samantha Bright",
+        "contactId": 41
+    },
+    {
+        "text": "Follow up and discuss the offer.",
+        "date": null,
+        "status": "1",
+        "priority": null,
+        "manager": "Samantha Bright",
+        "contactId": 41
+    },
+    {
+        "text": "Obtain CEO contact information.",
+        "date": null,
+        "status": "1",
+        "priority": null,
+        "manager": "Samantha Bright",
+        "contactId": 41
+    },
+    {
+        "text": "Create requested product comparison report.",
+        "date": null,
+        "status": "1",
+        "priority": null,
+        "manager": "Samantha Bright",
+        "contactId": 41
+    },
+    {
+        "text": "Generate a quote.",
+        "date": null,
+        "status": "1",
+        "priority": null,
+        "manager": "Samantha Bright",
+        "contactId": 41
+    },
+    {
+        "text": "Follow up and address recent feedback.",
+        "date": null,
+        "status": "1",
+        "priority": null,
+        "manager": "Samantha Bright",
+        "contactId": 41
+    },
+    {
+        "text": "Apply discounts and generate a binding offer.",
+        "date": null,
+        "status": "1",
+        "priority": null,
+        "manager": "Samantha Bright",
+        "contactId": 41
+    },
+    {
+        "text": "Obtain feedback on new equipment.",
+        "date": null,
+        "status": "1",
+        "priority": null,
+        "manager": "Samantha Bright",
+        "contactId": 41
+    },
+    {
+        "text": "Send SWAG to customer.",
+        "date": null,
+        "status": "1",
+        "priority": null,
+        "manager": "Samantha Bright",
+        "contactId": 41
+    },
+    {
+        "text": "Ask if upgrade is required.",
+        "date": null,
+        "status": "1",
+        "priority": null,
+        "manager": "Samantha Bright",
+        "contactId": 41
+    },
+    {
+        "text": "Call to clarify customer requirements.",
+        "date": null,
+        "status": "0",
+        "priority": null,
+        "manager": "Samantha Bright",
+        "contactId": 23
+    },
+    {
+        "text": "Send pictures/brochures of new products.",
+        "date": null,
+        "status": "0",
+        "priority": null,
+        "manager": "Samantha Bright",
+        "contactId": 23
+    },
+    {
+        "text": "Follow up and discuss the offer.",
+        "date": null,
+        "status": "0",
+        "priority": null,
+        "manager": "Samantha Bright",
+        "contactId": 23
+    },
+    {
+        "text": "Obtain CEO contact information.",
+        "date": null,
+        "status": "0",
+        "priority": null,
+        "manager": "Samantha Bright",
+        "contactId": 23
+    },
+    {
+        "text": "Create requested product comparison report.",
+        "date": null,
+        "status": "0",
+        "priority": null,
+        "manager": "Samantha Bright",
+        "contactId": 23
+    },
+    {
+        "text": "Generate a quote.",
+        "date": null,
+        "status": "0",
+        "priority": null,
+        "manager": "Samantha Bright",
+        "contactId": 23
+    },
+    {
+        "text": "Follow up and address recent feedback.",
+        "date": null,
+        "status": "0",
+        "priority": null,
+        "manager": "Samantha Bright",
+        "contactId": 23
+    },
+    {
+        "text": "Apply discounts and generate a binding offer.",
+        "date": null,
+        "status": "0",
+        "priority": null,
+        "manager": "Samantha Bright",
+        "contactId": 23
+    },
+    {
+        "text": "Send SWAG to customer.",
+        "date": null,
+        "status": "1",
+        "priority": null,
+        "manager": "Samantha Bright",
+        "contactId": 23
+    },
+    {
+        "text": "Ask if upgrade is required.",
+        "date": null,
+        "status": "1",
+        "priority": null,
+        "manager": "Samantha Bright",
+        "contactId": 23
+    },
+    {
+        "text": "Send pictures/brochures of new products.",
+        "date": "2020-10-26T14:00:00",
+        "status": "Deferred",
+        "priority": "Normal",
+        "manager": "John Heart",
+        "contactId": 20
+    },
+    {
+        "text": "Follow up and discuss the offer.",
+        "date": "2020-10-30T14:00:00",
+        "status": "Deferred",
+        "priority": "High",
+        "manager": "John Heart",
+        "contactId": 20
+    },
+    {
+        "text": "Obtain CEO contact information.",
+        "date": "2020-10-25T14:00:00",
+        "status": "Deferred",
+        "priority": "Low",
+        "manager": "John Heart",
+        "contactId": 20
+    },
+    {
+        "text": "Create requested product comparison report.",
+        "date": "2020-10-29T14:00:00",
+        "status": "Completed",
+        "priority": "Normal",
+        "manager": "John Heart",
+        "contactId": 20
+    },
+    {
+        "text": "Generate a quote.",
+        "date": "2020-10-24T14:00:00",
+        "status": "Completed",
+        "priority": "High",
+        "manager": "John Heart",
+        "contactId": 20
+    },
+    {
+        "text": "Follow up and address recent feedback.",
+        "date": "2020-10-28T14:00:00",
+        "status": "Completed",
+        "priority": "Low",
+        "manager": "John Heart",
+        "contactId": 20
+    },
+    {
+        "text": "Apply discounts and generate a binding offer.",
+        "date": "2020-10-23T14:00:00",
+        "status": "Completed",
+        "priority": "Normal",
+        "manager": "John Heart",
+        "contactId": 20
+    },
+    {
+        "text": "Obtain feedback on new equipment.",
+        "date": "2020-10-27T14:00:00",
+        "status": "Completed",
+        "priority": "High",
+        "manager": "John Heart",
+        "contactId": 20
+    },
+    {
+        "text": "Send SWAG to customer.",
+        "date": "2020-10-22T14:00:00",
+        "status": "Completed",
+        "priority": "Low",
+        "manager": "John Heart",
+        "contactId": 20
+    },
+    {
+        "text": "Ask if upgrade is required.",
+        "date": "2020-10-26T14:00:00",
+        "status": "Completed",
+        "priority": "Normal",
+        "manager": "John Heart",
+        "contactId": 20
+    },
+    {
+        "text": "Call to clarify customer requirements.",
+        "date": "2020-12-31T14:00:00",
+        "status": "Open",
+        "priority": "Low",
+        "manager": "Samantha Bright",
+        "contactId": 7
+    },
+    {
+        "text": "Send pictures/brochures of new products.",
+        "date": "2021-01-07T10:26:40",
+        "status": "Open",
+        "priority": "Normal",
+        "manager": "Samantha Bright",
+        "contactId": 7
+    },
+    {
+        "text": "Follow up and discuss the offer.",
+        "date": "2020-12-30T14:00:00",
+        "status": "In Progress",
+        "priority": "High",
+        "manager": "Samantha Bright",
+        "contactId": 7
+    },
+    {
+        "text": "Obtain CEO contact information.",
+        "date": "2021-01-06T14:00:00",
+        "status": "In Progress",
+        "priority": "Low",
+        "manager": "Samantha Bright",
+        "contactId": 7
+    },
+    {
+        "text": "Create requested product comparison report.",
+        "date": "2020-12-29T14:00:00",
+        "status": "In Progress",
+        "priority": "Normal",
+        "manager": "Samantha Bright",
+        "contactId": 7
+    },
+    {
+        "text": "Generate a quote.",
+        "date": "2021-01-05T14:00:00",
+        "status": "Completed",
+        "priority": "High",
+        "manager": "Samantha Bright",
+        "contactId": 7
+    },
+    {
+        "text": "Follow up and address recent feedback.",
+        "date": "2020-12-28T14:00:00",
+        "status": "Completed",
+        "priority": "Low",
+        "manager": "Samantha Bright",
+        "contactId": 7
+    },
+    {
+        "text": "Apply discounts and generate a binding offer.",
+        "date": "2021-01-04T14:00:00",
+        "status": "Deferred",
+        "priority": "Normal",
+        "manager": "Samantha Bright",
+        "contactId": 7
+    },
+    {
+        "text": "Send SWAG to customer.",
+        "date": "2020-12-27T14:00:00",
+        "status": "Completed",
+        "priority": "High",
+        "manager": "Samantha Bright",
+        "contactId": 7
+    },
+    {
+        "text": "Ask if upgrade is required.",
+        "date": "2021-01-03T14:00:00",
+        "status": "Completed",
+        "priority": "Low",
+        "manager": "Samantha Bright",
+        "contactId": 7
+    },
+    {
+        "text": "Call to clarify customer requirements.",
+        "date": "2020-10-31T14:00:00",
+        "status": "Open",
+        "priority": "Low",
+        "manager": "Samantha Bright",
+        "contactId": 19
+    },
+    {
+        "text": "Send pictures/brochures of new products.",
+        "date": "2020-11-04T14:00:00",
+        "status": "Open",
+        "priority": "Normal",
+        "manager": "Samantha Bright",
+        "contactId": 19
+    },
+    {
+        "text": "Obtain CEO contact information.",
+        "date": "2020-10-30T14:00:00",
+        "status": "Deferred",
+        "priority": "High",
+        "manager": "Samantha Bright",
+        "contactId": 19
+    },
+    {
+        "text": "Create requested product comparison report.",
+        "date": "2020-11-03T14:00:00",
+        "status": "Deferred",
+        "priority": "Low",
+        "manager": "Samantha Bright",
+        "contactId": 19
+    },
+    {
+        "text": "Generate a quote.",
+        "date": "2020-10-29T14:00:00",
+        "status": "Completed",
+        "priority": "Normal",
+        "manager": "Samantha Bright",
+        "contactId": 19
+    },
+    {
+        "text": "Follow up and address recent feedback.",
+        "date": "2020-11-02T14:00:00",
+        "status": "Completed",
+        "priority": "High",
+        "manager": "Samantha Bright",
+        "contactId": 19
+    },
+    {
+        "text": "Apply discounts and generate a binding offer.",
+        "date": "2020-10-28T14:00:00",
+        "status": "Completed",
+        "priority": "Low",
+        "manager": "Samantha Bright",
+        "contactId": 19
+    },
+    {
+        "text": "Obtain feedback on new equipment.",
+        "date": "2020-11-01T14:00:00",
+        "status": "Completed",
+        "priority": "Normal",
+        "manager": "Samantha Bright",
+        "contactId": 19
+    },
+    {
+        "text": "Send SWAG to customer.",
+        "date": "2020-10-27T14:00:00",
+        "status": "Completed",
+        "priority": "High",
+        "manager": "Samantha Bright",
+        "contactId": 19
+    },
+    {
+        "text": "Ask if upgrade is required.",
+        "date": "2020-10-31T14:00:00",
+        "status": "Completed",
+        "priority": "Low",
+        "manager": "Samantha Bright",
+        "contactId": 19
+    },
+    {
+        "text": "Call to clarify customer requirements.",
+        "date": null,
+        "status": "0",
+        "priority": null,
+        "manager": "John Heart",
+        "contactId": 48
+    },
+    {
+        "text": "Send pictures/brochures of new products.",
+        "date": null,
+        "status": "0",
+        "priority": null,
+        "manager": "John Heart",
+        "contactId": 48
+    },
+    {
+        "text": "Follow up and discuss the offer.",
+        "date": null,
+        "status": "0",
+        "priority": null,
+        "manager": "John Heart",
+        "contactId": 48
+    },
+    {
+        "text": "Obtain CEO contact information.",
+        "date": null,
+        "status": "0",
+        "priority": null,
+        "manager": "John Heart",
+        "contactId": 48
+    },
+    {
+        "text": "Create requested product comparison report.",
+        "date": null,
+        "status": "0",
+        "priority": null,
+        "manager": "John Heart",
+        "contactId": 48
+    },
+    {
+        "text": "Generate a quote.",
+        "date": null,
+        "status": "0",
+        "priority": null,
+        "manager": "John Heart",
+        "contactId": 48
+    },
+    {
+        "text": "Follow up and address recent feedback.",
+        "date": null,
+        "status": "0",
+        "priority": null,
+        "manager": "John Heart",
+        "contactId": 48
+    },
+    {
+        "text": "Apply discounts and generate a binding offer.",
+        "date": null,
+        "status": "0",
+        "priority": null,
+        "manager": "John Heart",
+        "contactId": 48
+    },
+    {
+        "text": "Obtain feedback on new equipment.",
+        "date": null,
+        "status": "0",
+        "priority": null,
+        "manager": "John Heart",
+        "contactId": 48
+    },
+    {
+        "text": "Send SWAG to customer.",
+        "date": null,
+        "status": "1",
+        "priority": null,
+        "manager": "John Heart",
+        "contactId": 48
+    },
+    {
+        "text": "Ask if upgrade is required.",
+        "date": null,
+        "status": "1",
+        "priority": null,
+        "manager": "John Heart",
+        "contactId": 48
+    },
+    {
+        "text": "Follow up and discuss the offer.",
+        "date": "2020-11-30T14:00:00",
+        "status": "Completed",
+        "priority": "Low",
+        "manager": "Samantha Bright",
+        "contactId": 13
+    },
+    {
+        "text": "Obtain CEO contact information.",
+        "date": "2020-12-04T14:00:00",
+        "status": "Completed",
+        "priority": "Normal",
+        "manager": "Samantha Bright",
+        "contactId": 13
+    },
+    {
+        "text": "Create requested product comparison report.",
+        "date": "2020-11-29T14:00:00",
+        "status": "Completed",
+        "priority": "High",
+        "manager": "Samantha Bright",
+        "contactId": 13
+    },
+    {
+        "text": "Generate a quote.",
+        "date": "2020-12-03T14:00:00",
+        "status": "Completed",
+        "priority": "Low",
+        "manager": "Samantha Bright",
+        "contactId": 13
+    },
+    {
+        "text": "Follow up and address recent feedback.",
+        "date": "2020-11-28T14:00:00",
+        "status": "Completed",
+        "priority": "Normal",
+        "manager": "Samantha Bright",
+        "contactId": 13
+    },
+    {
+        "text": "Apply discounts and generate a binding offer.",
+        "date": "2020-12-02T14:00:00",
+        "status": "Completed",
+        "priority": "High",
+        "manager": "Samantha Bright",
+        "contactId": 13
+    },
+    {
+        "text": "Obtain feedback on new equipment.",
+        "date": "2020-11-27T14:00:00",
+        "status": "In Progress",
+        "priority": "Low",
+        "manager": "Samantha Bright",
+        "contactId": 13
+    },
+    {
+        "text": "Send SWAG to customer.",
+        "date": "2020-12-01T14:00:00",
+        "status": "In Progress",
+        "priority": "Normal",
+        "manager": "Samantha Bright",
+        "contactId": 13
+    },
+    {
+        "text": "Ask if upgrade is required.",
+        "date": "2020-11-26T14:00:00",
+        "status": "In Progress",
+        "priority": "High",
+        "manager": "Samantha Bright",
+        "contactId": 13
+    },
+    {
+        "text": "Call to clarify customer requirements.",
+        "date": null,
+        "status": "0",
+        "priority": null,
+        "manager": "Samantha Bright",
+        "contactId": 51
+    },
+    {
+        "text": "Send pictures/brochures of new products.",
+        "date": null,
+        "status": "0",
+        "priority": null,
+        "manager": "Samantha Bright",
+        "contactId": 51
+    },
+    {
+        "text": "Follow up and discuss the offer.",
+        "date": null,
+        "status": "0",
+        "priority": null,
+        "manager": "Samantha Bright",
+        "contactId": 51
+    },
+    {
+        "text": "Obtain CEO contact information.",
+        "date": null,
+        "status": "0",
+        "priority": null,
+        "manager": "Samantha Bright",
+        "contactId": 51
+    },
+    {
+        "text": "Create requested product comparison report.",
+        "date": null,
+        "status": "0",
+        "priority": null,
+        "manager": "Samantha Bright",
+        "contactId": 51
+    },
+    {
+        "text": "Generate a quote.",
+        "date": null,
+        "status": "0",
+        "priority": null,
+        "manager": "Samantha Bright",
+        "contactId": 51
+    },
+    {
+        "text": "Apply discounts and generate a binding offer.",
+        "date": null,
+        "status": "1",
+        "priority": null,
+        "manager": "Samantha Bright",
+        "contactId": 51
+    },
+    {
+        "text": "Obtain feedback on new equipment.",
+        "date": null,
+        "status": "1",
+        "priority": null,
+        "manager": "Samantha Bright",
+        "contactId": 51
+    },
+    {
+        "text": "Send SWAG to customer.",
+        "date": null,
+        "status": "1",
+        "priority": null,
+        "manager": "Samantha Bright",
+        "contactId": 51
+    },
+    {
+        "text": "Ask if upgrade is required.",
+        "date": null,
+        "status": "1",
+        "priority": null,
+        "manager": "Samantha Bright",
+        "contactId": 51
+    },
+    {
+        "text": "Call to clarify customer requirements.",
+        "date": null,
+        "status": "0",
+        "priority": null,
+        "manager": "John Heart",
+        "contactId": 30
+    },
+    {
+        "text": "Send pictures/brochures of new products.",
+        "date": null,
+        "status": "0",
+        "priority": null,
+        "manager": "John Heart",
+        "contactId": 30
+    },
+    {
+        "text": "Follow up and discuss the offer.",
+        "date": null,
+        "status": "0",
+        "priority": null,
+        "manager": "John Heart",
+        "contactId": 30
+    },
+    {
+        "text": "Obtain CEO contact information.",
+        "date": null,
+        "status": "0",
+        "priority": null,
+        "manager": "John Heart",
+        "contactId": 30
+    },
+    {
+        "text": "Create requested product comparison report.",
+        "date": null,
+        "status": "0",
+        "priority": null,
+        "manager": "John Heart",
+        "contactId": 30
+    },
+    {
+        "text": "Generate a quote.",
+        "date": null,
+        "status": "0",
+        "priority": null,
+        "manager": "John Heart",
+        "contactId": 30
+    },
+    {
+        "text": "Follow up and address recent feedback.",
+        "date": null,
+        "status": "0",
+        "priority": null,
+        "manager": "John Heart",
+        "contactId": 30
+    },
+    {
+        "text": "Apply discounts and generate a binding offer.",
+        "date": null,
+        "status": "0",
+        "priority": null,
+        "manager": "John Heart",
+        "contactId": 30
+    },
+    {
+        "text": "Obtain feedback on new equipment.",
+        "date": null,
+        "status": "0",
+        "priority": null,
+        "manager": "John Heart",
+        "contactId": 30
+    },
+    {
+        "text": "Send SWAG to customer.",
+        "date": null,
+        "status": "1",
+        "priority": null,
+        "manager": "John Heart",
+        "contactId": 30
+    },
+    {
+        "text": "Ask if upgrade is required.",
+        "date": null,
+        "status": "1",
+        "priority": null,
+        "manager": "John Heart",
+        "contactId": 30
+    },
+    {
+        "text": "Send pictures/brochures of new products.",
+        "date": null,
+        "status": "1",
+        "priority": null,
+        "manager": "Samantha Bright",
+        "contactId": 31
+    },
+    {
+        "text": "Follow up and discuss the offer.",
+        "date": null,
+        "status": "1",
+        "priority": null,
+        "manager": "Samantha Bright",
+        "contactId": 31
+    },
+    {
+        "text": "Obtain CEO contact information.",
+        "date": null,
+        "status": "1",
+        "priority": null,
+        "manager": "Samantha Bright",
+        "contactId": 31
+    },
+    {
+        "text": "Create requested product comparison report.",
+        "date": null,
+        "status": "1",
+        "priority": null,
+        "manager": "Samantha Bright",
+        "contactId": 31
+    },
+    {
+        "text": "Generate a quote.",
+        "date": null,
+        "status": "1",
+        "priority": null,
+        "manager": "Samantha Bright",
+        "contactId": 31
+    },
+    {
+        "text": "Follow up and address recent feedback.",
+        "date": null,
+        "status": "1",
+        "priority": null,
+        "manager": "Samantha Bright",
+        "contactId": 31
+    },
+    {
+        "text": "Apply discounts and generate a binding offer.",
+        "date": null,
+        "status": "1",
+        "priority": null,
+        "manager": "Samantha Bright",
+        "contactId": 31
+    },
+    {
+        "text": "Obtain feedback on new equipment.",
+        "date": null,
+        "status": "1",
+        "priority": null,
+        "manager": "Samantha Bright",
+        "contactId": 31
+    },
+    {
+        "text": "Send SWAG to customer.",
+        "date": null,
+        "status": "1",
+        "priority": null,
+        "manager": "Samantha Bright",
+        "contactId": 31
+    },
+    {
+        "text": "Ask if upgrade is required.",
+        "date": null,
+        "status": "1",
+        "priority": null,
+        "manager": "Samantha Bright",
+        "contactId": 31
+    },
+    {
+        "text": "Call to clarify customer requirements.",
+        "date": null,
+        "status": "0",
+        "priority": null,
+        "manager": "John Heart",
+        "contactId": 36
+    },
+    {
+        "text": "Send pictures/brochures of new products.",
+        "date": null,
+        "status": "0",
+        "priority": null,
+        "manager": "John Heart",
+        "contactId": 36
+    },
+    {
+        "text": "Follow up and discuss the offer.",
+        "date": null,
+        "status": "0",
+        "priority": null,
+        "manager": "John Heart",
+        "contactId": 36
+    },
+    {
+        "text": "Obtain CEO contact information.",
+        "date": null,
+        "status": "0",
+        "priority": null,
+        "manager": "John Heart",
+        "contactId": 36
+    },
+    {
+        "text": "Generate a quote.",
+        "date": null,
+        "status": "1",
+        "priority": null,
+        "manager": "John Heart",
+        "contactId": 36
+    },
+    {
+        "text": "Follow up and address recent feedback.",
+        "date": null,
+        "status": "1",
+        "priority": null,
+        "manager": "John Heart",
+        "contactId": 36
+    },
+    {
+        "text": "Apply discounts and generate a binding offer.",
+        "date": null,
+        "status": "1",
+        "priority": null,
+        "manager": "John Heart",
+        "contactId": 36
+    },
+    {
+        "text": "Obtain feedback on new equipment.",
+        "date": null,
+        "status": "1",
+        "priority": null,
+        "manager": "John Heart",
+        "contactId": 36
+    },
+    {
+        "text": "Send SWAG to customer.",
+        "date": null,
+        "status": "1",
+        "priority": null,
+        "manager": "John Heart",
+        "contactId": 36
+    },
+    {
+        "text": "Ask if upgrade is required.",
+        "date": null,
+        "status": "1",
+        "priority": null,
+        "manager": "John Heart",
+        "contactId": 36
+    },
+    {
+        "text": "Call to clarify customer requirements.",
+        "date": null,
+        "status": "0",
+        "priority": null,
+        "manager": "John Heart",
+        "contactId": 38
+    },
+    {
+        "text": "Send pictures/brochures of new products.",
+        "date": null,
+        "status": "0",
+        "priority": null,
+        "manager": "John Heart",
+        "contactId": 38
+    },
+    {
+        "text": "Follow up and discuss the offer.",
+        "date": null,
+        "status": "0",
+        "priority": null,
+        "manager": "John Heart",
+        "contactId": 38
+    },
+    {
+        "text": "Obtain CEO contact information.",
+        "date": null,
+        "status": "0",
+        "priority": null,
+        "manager": "John Heart",
+        "contactId": 38
+    },
+    {
+        "text": "Create requested product comparison report.",
+        "date": null,
+        "status": "0",
+        "priority": null,
+        "manager": "John Heart",
+        "contactId": 38
+    },
+    {
+        "text": "Generate a quote.",
+        "date": null,
+        "status": "0",
+        "priority": null,
+        "manager": "John Heart",
+        "contactId": 38
+    },
+    {
+        "text": "Follow up and address recent feedback.",
+        "date": null,
+        "status": "0",
+        "priority": null,
+        "manager": "John Heart",
+        "contactId": 38
+    },
+    {
+        "text": "Apply discounts and generate a binding offer.",
+        "date": null,
+        "status": "0",
+        "priority": null,
+        "manager": "John Heart",
+        "contactId": 38
+    },
+    {
+        "text": "Obtain feedback on new equipment.",
+        "date": null,
+        "status": "0",
+        "priority": null,
+        "manager": "John Heart",
+        "contactId": 38
+    },
+    {
+        "text": "Send SWAG to customer.",
+        "date": null,
+        "status": "1",
+        "priority": null,
+        "manager": "John Heart",
+        "contactId": 38
+    },
+    {
+        "text": "Ask if upgrade is required.",
+        "date": null,
+        "status": "1",
+        "priority": null,
+        "manager": "John Heart",
+        "contactId": 38
+    },
+    {
+        "text": "Call to clarify customer requirements.",
+        "date": "2021-01-18T00:00:00",
+        "status": "Open",
+        "priority": "Normal",
+        "manager": "Samantha Bright",
+        "contactId": 5
+    },
+    {
+        "text": "Send pictures/brochures of new products.",
+        "date": "2021-01-10T18:26:40",
+        "status": "Open",
+        "priority": "High",
+        "manager": "Samantha Bright",
+        "contactId": 5
+    },
+    {
+        "text": "Obtain CEO contact information.",
+        "date": "2021-01-16T23:00:00",
+        "status": "Completed",
+        "priority": "Low",
+        "manager": "Samantha Bright",
+        "contactId": 5
+    },
+    {
+        "text": "Create requested product comparison report.",
+        "date": "2021-01-09T17:26:40",
+        "status": "Completed",
+        "priority": "Normal",
+        "manager": "Samantha Bright",
+        "contactId": 5
+    },
+    {
+        "text": "Generate a quote.",
+        "date": "2021-01-15T22:00:00",
+        "status": "Completed",
+        "priority": "High",
+        "manager": "Samantha Bright",
+        "contactId": 5
+    },
+    {
+        "text": "Follow up and address recent feedback.",
+        "date": "2021-01-08T16:26:40",
+        "status": "Completed",
+        "priority": "Low",
+        "manager": "Samantha Bright",
+        "contactId": 5
+    },
+    {
+        "text": "Apply discounts and generate a binding offer.",
+        "date": "2021-01-07T21:00:00",
+        "status": "Completed",
+        "priority": "Normal",
+        "manager": "Samantha Bright",
+        "contactId": 5
+    },
+    {
+        "text": "Obtain feedback on new equipment.",
+        "date": "2021-01-14T15:26:40",
+        "status": "Open",
+        "priority": "High",
+        "manager": "Samantha Bright",
+        "contactId": 5
+    },
+    {
+        "text": "Send SWAG to customer.",
+        "date": "2021-01-06T20:00:00",
+        "status": "In Progress",
+        "priority": "Low",
+        "manager": "Samantha Bright",
+        "contactId": 5
+    },
+    {
+        "text": "Ask if upgrade is required.",
+        "date": "2021-01-13T14:26:40",
+        "status": "Completed",
+        "priority": "Normal",
+        "manager": "Samantha Bright",
+        "contactId": 5
+    },
+    {
+        "text": "Call to clarify customer requirements.",
+        "date": null,
+        "status": "0",
+        "priority": null,
+        "manager": "John Heart",
+        "contactId": 34
+    },
+    {
+        "text": "Send pictures/brochures of new products.",
+        "date": null,
+        "status": "0",
+        "priority": null,
+        "manager": "John Heart",
+        "contactId": 34
+    },
+    {
+        "text": "Follow up and discuss the offer.",
+        "date": null,
+        "status": "0",
+        "priority": null,
+        "manager": "John Heart",
+        "contactId": 34
+    },
+    {
+        "text": "Obtain CEO contact information.",
+        "date": null,
+        "status": "0",
+        "priority": null,
+        "manager": "John Heart",
+        "contactId": 34
+    },
+    {
+        "text": "Create requested product comparison report.",
+        "date": null,
+        "status": "0",
+        "priority": null,
+        "manager": "John Heart",
+        "contactId": 34
+    },
+    {
+        "text": "Generate a quote.",
+        "date": null,
+        "status": "0",
+        "priority": null,
+        "manager": "John Heart",
+        "contactId": 34
+    },
+    {
+        "text": "Follow up and address recent feedback.",
+        "date": null,
+        "status": "0",
+        "priority": null,
+        "manager": "John Heart",
+        "contactId": 34
+    },
+    {
+        "text": "Apply discounts and generate a binding offer.",
+        "date": null,
+        "status": "0",
+        "priority": null,
+        "manager": "John Heart",
+        "contactId": 34
+    },
+    {
+        "text": "Obtain feedback on new equipment.",
+        "date": null,
+        "status": "0",
+        "priority": null,
+        "manager": "John Heart",
+        "contactId": 34
+    },
+    {
+        "text": "Send SWAG to customer.",
+        "date": null,
+        "status": "1",
+        "priority": null,
+        "manager": "John Heart",
+        "contactId": 34
+    },
+    {
+        "text": "Ask if upgrade is required.",
+        "date": null,
+        "status": "1",
+        "priority": null,
+        "manager": "John Heart",
+        "contactId": 34
+    },
+    {
+        "text": "Call to clarify customer requirements.",
+        "date": "2020-10-21T14:00:00",
+        "status": "Open",
+        "priority": "High",
+        "manager": "Samantha Bright",
+        "contactId": 21
+    },
+    {
+        "text": "Send pictures/brochures of new products.",
+        "date": "2020-10-25T14:00:00",
+        "status": "Open",
+        "priority": "Low",
+        "manager": "Samantha Bright",
+        "contactId": 21
+    },
+    {
+        "text": "Follow up and discuss the offer.",
+        "date": "2020-10-20T14:00:00",
+        "status": "Open",
+        "priority": "Normal",
+        "manager": "Samantha Bright",
+        "contactId": 21
+    },
+    {
+        "text": "Obtain CEO contact information.",
+        "date": "2020-10-24T14:00:00",
+        "status": "In Progress",
+        "priority": "High",
+        "manager": "Samantha Bright",
+        "contactId": 21
+    },
+    {
+        "text": "Generate a quote.",
+        "date": "2020-10-19T14:00:00",
+        "status": "Completed",
+        "priority": "Low",
+        "manager": "Samantha Bright",
+        "contactId": 21
+    },
+    {
+        "text": "Follow up and address recent feedback.",
+        "date": "2020-10-23T14:00:00",
+        "status": "Completed",
+        "priority": "Normal",
+        "manager": "Samantha Bright",
+        "contactId": 21
+    },
+    {
+        "text": "Apply discounts and generate a binding offer.",
+        "date": "2020-10-18T14:00:00",
+        "status": "Completed",
+        "priority": "High",
+        "manager": "Samantha Bright",
+        "contactId": 21
+    },
+    {
+        "text": "Obtain feedback on new equipment.",
+        "date": "2020-10-22T14:00:00",
+        "status": "Completed",
+        "priority": "Low",
+        "manager": "Samantha Bright",
+        "contactId": 21
+    },
+    {
+        "text": "Send SWAG to customer.",
+        "date": "2020-10-17T14:00:00",
+        "status": "Completed",
+        "priority": "Normal",
+        "manager": "Samantha Bright",
+        "contactId": 21
+    },
+    {
+        "text": "Ask if upgrade is required.",
+        "date": "2020-10-21T14:00:00",
+        "status": "Completed",
+        "priority": "High",
+        "manager": "Samantha Bright",
+        "contactId": 21
+    },
+    {
+        "text": "Call to clarify customer requirements.",
+        "date": null,
+        "status": "0",
+        "priority": null,
+        "manager": "Samantha Bright",
+        "contactId": 49
+    },
+    {
+        "text": "Send pictures/brochures of new products.",
+        "date": null,
+        "status": "0",
+        "priority": null,
+        "manager": "Samantha Bright",
+        "contactId": 49
+    },
+    {
+        "text": "Follow up and discuss the offer.",
+        "date": null,
+        "status": "0",
+        "priority": null,
+        "manager": "Samantha Bright",
+        "contactId": 49
+    },
+    {
+        "text": "Obtain CEO contact information.",
+        "date": null,
+        "status": "0",
+        "priority": null,
+        "manager": "Samantha Bright",
+        "contactId": 49
+    },
+    {
+        "text": "Create requested product comparison report.",
+        "date": null,
+        "status": "0",
+        "priority": null,
+        "manager": "Samantha Bright",
+        "contactId": 49
+    },
+    {
+        "text": "Generate a quote.",
+        "date": null,
+        "status": "0",
+        "priority": null,
+        "manager": "Samantha Bright",
+        "contactId": 49
+    },
+    {
+        "text": "Follow up and address recent feedback.",
+        "date": null,
+        "status": "0",
+        "priority": null,
+        "manager": "Samantha Bright",
+        "contactId": 49
+    },
+    {
+        "text": "Apply discounts and generate a binding offer.",
+        "date": null,
+        "status": "0",
+        "priority": null,
+        "manager": "Samantha Bright",
+        "contactId": 49
+    },
+    {
+        "text": "Obtain feedback on new equipment.",
+        "date": null,
+        "status": "0",
+        "priority": null,
+        "manager": "Samantha Bright",
+        "contactId": 49
+    },
+    {
+        "text": "Send SWAG to customer.",
+        "date": null,
+        "status": "1",
+        "priority": null,
+        "manager": "Samantha Bright",
+        "contactId": 49
+    },
+    {
+        "text": "Ask if upgrade is required.",
+        "date": null,
+        "status": "1",
+        "priority": null,
+        "manager": "Samantha Bright",
+        "contactId": 49
+    },
+    {
+        "text": "Call to clarify customer requirements.",
+        "date": null,
+        "status": "0",
+        "priority": null,
+        "manager": "Samantha Bright",
+        "contactId": 37
+    },
+    {
+        "text": "Send pictures/brochures of new products.",
+        "date": null,
+        "status": "0",
+        "priority": null,
+        "manager": "Samantha Bright",
+        "contactId": 37
+    },
+    {
+        "text": "Follow up and discuss the offer.",
+        "date": null,
+        "status": "0",
+        "priority": null,
+        "manager": "Samantha Bright",
+        "contactId": 37
+    },
+    {
+        "text": "Obtain CEO contact information.",
+        "date": null,
+        "status": "0",
+        "priority": null,
+        "manager": "Samantha Bright",
+        "contactId": 37
+    },
+    {
+        "text": "Create requested product comparison report.",
+        "date": null,
+        "status": "0",
+        "priority": null,
+        "manager": "Samantha Bright",
+        "contactId": 37
+    },
+    {
+        "text": "Follow up and address recent feedback.",
+        "date": null,
+        "status": "1",
+        "priority": null,
+        "manager": "Samantha Bright",
+        "contactId": 37
+    },
+    {
+        "text": "Apply discounts and generate a binding offer.",
+        "date": null,
+        "status": "1",
+        "priority": null,
+        "manager": "Samantha Bright",
+        "contactId": 37
+    },
+    {
+        "text": "Obtain feedback on new equipment.",
+        "date": null,
+        "status": "1",
+        "priority": null,
+        "manager": "Samantha Bright",
+        "contactId": 37
+    },
+    {
+        "text": "Send SWAG to customer.",
+        "date": null,
+        "status": "1",
+        "priority": null,
+        "manager": "Samantha Bright",
+        "contactId": 37
+    },
+    {
+        "text": "Ask if upgrade is required.",
+        "date": null,
+        "status": "1",
+        "priority": null,
+        "manager": "Samantha Bright",
+        "contactId": 37
+    },
+    {
+        "text": "Call to clarify customer requirements.",
+        "date": "2020-11-20T14:00:00",
+        "status": "Open",
+        "priority": "High",
+        "manager": "John Heart",
+        "contactId": 16
+    },
+    {
+        "text": "Send pictures/brochures of new products.",
+        "date": "2020-11-15T14:00:00",
+        "status": "Open",
+        "priority": "Low",
+        "manager": "John Heart",
+        "contactId": 16
+    },
+    {
+        "text": "Follow up and discuss the offer.",
+        "date": "2020-11-19T14:00:00",
+        "status": "Open",
+        "priority": "Normal",
+        "manager": "John Heart",
+        "contactId": 16
+    },
+    {
+        "text": "Obtain CEO contact information.",
+        "date": "2020-11-14T14:00:00",
+        "status": "In Progress",
+        "priority": "High",
+        "manager": "John Heart",
+        "contactId": 16
+    },
+    {
+        "text": "Create requested product comparison report.",
+        "date": "2020-11-18T14:00:00",
+        "status": "In Progress",
+        "priority": "Low",
+        "manager": "John Heart",
+        "contactId": 16
+    },
+    {
+        "text": "Follow up and address recent feedback.",
+        "date": "2020-11-13T14:00:00",
+        "status": "Completed",
+        "priority": "Normal",
+        "manager": "John Heart",
+        "contactId": 16
+    },
+    {
+        "text": "Apply discounts and generate a binding offer.",
+        "date": "2020-11-17T14:00:00",
+        "status": "Completed",
+        "priority": "High",
+        "manager": "John Heart",
+        "contactId": 16
+    },
+    {
+        "text": "Obtain feedback on new equipment.",
+        "date": "2020-11-12T14:00:00",
+        "status": "Completed",
+        "priority": "Low",
+        "manager": "John Heart",
+        "contactId": 16
+    },
+    {
+        "text": "Send SWAG to customer.",
+        "date": "2020-11-16T14:00:00",
+        "status": "Completed",
+        "priority": "Normal",
+        "manager": "John Heart",
+        "contactId": 16
+    },
+    {
+        "text": "Ask if upgrade is required.",
+        "date": "2020-11-11T14:00:00",
+        "status": "Deferred",
+        "priority": "High",
+        "manager": "John Heart",
+        "contactId": 16
+    },
+    {
+        "text": "Call to clarify customer requirements.",
+        "date": null,
+        "status": "0",
+        "priority": null,
+        "manager": "John Heart",
+        "contactId": 24
+    },
+    {
+        "text": "Send pictures/brochures of new products.",
+        "date": null,
+        "status": "0",
+        "priority": null,
+        "manager": "John Heart",
+        "contactId": 24
+    },
+    {
+        "text": "Follow up and discuss the offer.",
+        "date": null,
+        "status": "0",
+        "priority": null,
+        "manager": "John Heart",
+        "contactId": 24
+    },
+    {
+        "text": "Obtain CEO contact information.",
+        "date": null,
+        "status": "0",
+        "priority": null,
+        "manager": "John Heart",
+        "contactId": 24
+    },
+    {
+        "text": "Create requested product comparison report.",
+        "date": null,
+        "status": "0",
+        "priority": null,
+        "manager": "John Heart",
+        "contactId": 24
+    },
+    {
+        "text": "Generate a quote.",
+        "date": null,
+        "status": "0",
+        "priority": null,
+        "manager": "John Heart",
+        "contactId": 24
+    },
+    {
+        "text": "Apply discounts and generate a binding offer.",
+        "date": null,
+        "status": "1",
+        "priority": null,
+        "manager": "John Heart",
+        "contactId": 24
+    },
+    {
+        "text": "Obtain feedback on new equipment.",
+        "date": null,
+        "status": "1",
+        "priority": null,
+        "manager": "John Heart",
+        "contactId": 24
+    },
+    {
+        "text": "Send SWAG to customer.",
+        "date": null,
+        "status": "1",
+        "priority": null,
+        "manager": "John Heart",
+        "contactId": 24
+    },
+    {
+        "text": "Ask if upgrade is required.",
+        "date": null,
+        "status": "1",
+        "priority": null,
+        "manager": "John Heart",
+        "contactId": 24
+    },
+    {
+        "text": "Call to clarify customer requirements.",
+        "date": null,
+        "status": "0",
+        "priority": null,
+        "manager": "John Heart",
+        "contactId": 50
+    },
+    {
+        "text": "Send pictures/brochures of new products.",
+        "date": null,
+        "status": "0",
+        "priority": null,
+        "manager": "John Heart",
+        "contactId": 50
+    },
+    {
+        "text": "Follow up and discuss the offer.",
+        "date": null,
+        "status": "0",
+        "priority": null,
+        "manager": "John Heart",
+        "contactId": 50
+    },
+    {
+        "text": "Obtain CEO contact information.",
+        "date": null,
+        "status": "0",
+        "priority": null,
+        "manager": "John Heart",
+        "contactId": 50
+    },
+    {
+        "text": "Create requested product comparison report.",
+        "date": null,
+        "status": "0",
+        "priority": null,
+        "manager": "John Heart",
+        "contactId": 50
+    },
+    {
+        "text": "Generate a quote.",
+        "date": null,
+        "status": "0",
+        "priority": null,
+        "manager": "John Heart",
+        "contactId": 50
+    },
+    {
+        "text": "Follow up and address recent feedback.",
+        "date": null,
+        "status": "0",
+        "priority": null,
+        "manager": "John Heart",
+        "contactId": 50
+    },
+    {
+        "text": "Apply discounts and generate a binding offer.",
+        "date": null,
+        "status": "0",
+        "priority": null,
+        "manager": "John Heart",
+        "contactId": 50
+    },
+    {
+        "text": "Obtain feedback on new equipment.",
+        "date": null,
+        "status": "0",
+        "priority": null,
+        "manager": "John Heart",
+        "contactId": 50
+    },
+    {
+        "text": "Send SWAG to customer.",
+        "date": null,
+        "status": "1",
+        "priority": null,
+        "manager": "John Heart",
+        "contactId": 50
+    },
+    {
+        "text": "Ask if upgrade is required.",
+        "date": null,
+        "status": "1",
+        "priority": null,
+        "manager": "John Heart",
+        "contactId": 50
+    },
+    {
+        "text": "Call to clarify customer requirements.",
+        "date": null,
+        "status": "0",
+        "priority": null,
+        "manager": "Samantha Bright",
+        "contactId": 27
+    },
+    {
+        "text": "Send pictures/brochures of new products.",
+        "date": null,
+        "status": "0",
+        "priority": null,
+        "manager": "Samantha Bright",
+        "contactId": 27
+    },
+    {
+        "text": "Follow up and discuss the offer.",
+        "date": null,
+        "status": "0",
+        "priority": null,
+        "manager": "Samantha Bright",
+        "contactId": 27
+    },
+    {
+        "text": "Obtain CEO contact information.",
+        "date": null,
+        "status": "0",
+        "priority": null,
+        "manager": "Samantha Bright",
+        "contactId": 27
+    },
+    {
+        "text": "Create requested product comparison report.",
+        "date": null,
+        "status": "0",
+        "priority": null,
+        "manager": "Samantha Bright",
+        "contactId": 27
+    },
+    {
+        "text": "Follow up and address recent feedback.",
+        "date": null,
+        "status": "1",
+        "priority": null,
+        "manager": "Samantha Bright",
+        "contactId": 27
+    },
+    {
+        "text": "Apply discounts and generate a binding offer.",
+        "date": null,
+        "status": "1",
+        "priority": null,
+        "manager": "Samantha Bright",
+        "contactId": 27
+    },
+    {
+        "text": "Obtain feedback on new equipment.",
+        "date": null,
+        "status": "1",
+        "priority": null,
+        "manager": "Samantha Bright",
+        "contactId": 27
+    },
+    {
+        "text": "Send SWAG to customer.",
+        "date": null,
+        "status": "1",
+        "priority": null,
+        "manager": "Samantha Bright",
+        "contactId": 27
+    },
+    {
+        "text": "Ask if upgrade is required.",
+        "date": null,
+        "status": "1",
+        "priority": null,
+        "manager": "Samantha Bright",
+        "contactId": 27
+    },
+    {
+        "text": "Send pictures/brochures of new products.",
+        "date": null,
+        "status": "1",
+        "priority": null,
+        "manager": "Samantha Bright",
+        "contactId": 47
+    },
+    {
+        "text": "Follow up and discuss the offer.",
+        "date": null,
+        "status": "1",
+        "priority": null,
+        "manager": "Samantha Bright",
+        "contactId": 47
+    },
+    {
+        "text": "Obtain CEO contact information.",
+        "date": null,
+        "status": "1",
+        "priority": null,
+        "manager": "Samantha Bright",
+        "contactId": 47
+    },
+    {
+        "text": "Create requested product comparison report.",
+        "date": null,
+        "status": "1",
+        "priority": null,
+        "manager": "Samantha Bright",
+        "contactId": 47
+    },
+    {
+        "text": "Generate a quote.",
+        "date": null,
+        "status": "1",
+        "priority": null,
+        "manager": "Samantha Bright",
+        "contactId": 47
+    },
+    {
+        "text": "Follow up and address recent feedback.",
+        "date": null,
+        "status": "1",
+        "priority": null,
+        "manager": "Samantha Bright",
+        "contactId": 47
+    },
+    {
+        "text": "Apply discounts and generate a binding offer.",
+        "date": null,
+        "status": "1",
+        "priority": null,
+        "manager": "Samantha Bright",
+        "contactId": 47
+    },
+    {
+        "text": "Obtain feedback on new equipment.",
+        "date": null,
+        "status": "1",
+        "priority": null,
+        "manager": "Samantha Bright",
+        "contactId": 47
+    },
+    {
+        "text": "Send SWAG to customer.",
+        "date": null,
+        "status": "1",
+        "priority": null,
+        "manager": "Samantha Bright",
+        "contactId": 47
+    },
+    {
+        "text": "Ask if upgrade is required.",
+        "date": null,
+        "status": "1",
+        "priority": null,
+        "manager": "Samantha Bright",
+        "contactId": 47
+    },
+    {
+        "text": "Call to clarify customer requirements.",
+        "date": null,
+        "status": "0",
+        "priority": null,
+        "manager": "Samantha Bright",
+        "contactId": 33
+    },
+    {
+        "text": "Send pictures/brochures of new products.",
+        "date": null,
+        "status": "0",
+        "priority": null,
+        "manager": "Samantha Bright",
+        "contactId": 33
+    },
+    {
+        "text": "Obtain CEO contact information.",
+        "date": null,
+        "status": "1",
+        "priority": null,
+        "manager": "Samantha Bright",
+        "contactId": 33
+    },
+    {
+        "text": "Create requested product comparison report.",
+        "date": null,
+        "status": "1",
+        "priority": null,
+        "manager": "Samantha Bright",
+        "contactId": 33
+    },
+    {
+        "text": "Generate a quote.",
+        "date": null,
+        "status": "1",
+        "priority": null,
+        "manager": "Samantha Bright",
+        "contactId": 33
+    },
+    {
+        "text": "Follow up and address recent feedback.",
+        "date": null,
+        "status": "1",
+        "priority": null,
+        "manager": "Samantha Bright",
+        "contactId": 33
+    },
+    {
+        "text": "Apply discounts and generate a binding offer.",
+        "date": null,
+        "status": "1",
+        "priority": null,
+        "manager": "Samantha Bright",
+        "contactId": 33
+    },
+    {
+        "text": "Obtain feedback on new equipment.",
+        "date": null,
+        "status": "1",
+        "priority": null,
+        "manager": "Samantha Bright",
+        "contactId": 33
+    },
+    {
+        "text": "Send SWAG to customer.",
+        "date": null,
+        "status": "1",
+        "priority": null,
+        "manager": "Samantha Bright",
+        "contactId": 33
+    },
+    {
+        "text": "Ask if upgrade is required.",
+        "date": null,
+        "status": "1",
+        "priority": null,
+        "manager": "Samantha Bright",
+        "contactId": 33
+    },
+    {
+        "text": "Call to clarify customer requirements.",
+        "date": null,
+        "status": "0",
+        "priority": null,
+        "manager": "John Heart",
+        "contactId": 46
+    },
+    {
+        "text": "Send pictures/brochures of new products.",
+        "date": null,
+        "status": "0",
+        "priority": null,
+        "manager": "John Heart",
+        "contactId": 46
+    },
+    {
+        "text": "Follow up and discuss the offer.",
+        "date": null,
+        "status": "0",
+        "priority": null,
+        "manager": "John Heart",
+        "contactId": 46
+    },
+    {
+        "text": "Obtain CEO contact information.",
+        "date": null,
+        "status": "0",
+        "priority": null,
+        "manager": "John Heart",
+        "contactId": 46
+    },
+    {
+        "text": "Create requested product comparison report.",
+        "date": null,
+        "status": "0",
+        "priority": null,
+        "manager": "John Heart",
+        "contactId": 46
+    },
+    {
+        "text": "Generate a quote.",
+        "date": null,
+        "status": "0",
+        "priority": null,
+        "manager": "John Heart",
+        "contactId": 46
+    },
+    {
+        "text": "Follow up and address recent feedback.",
+        "date": null,
+        "status": "0",
+        "priority": null,
+        "manager": "John Heart",
+        "contactId": 46
+    },
+    {
+        "text": "Apply discounts and generate a binding offer.",
+        "date": null,
+        "status": "0",
+        "priority": null,
+        "manager": "John Heart",
+        "contactId": 46
+    },
+    {
+        "text": "Obtain feedback on new equipment.",
+        "date": null,
+        "status": "0",
+        "priority": null,
+        "manager": "John Heart",
+        "contactId": 46
+    },
+    {
+        "text": "Send SWAG to customer.",
+        "date": null,
+        "status": "1",
+        "priority": null,
+        "manager": "John Heart",
+        "contactId": 46
+    },
+    {
+        "text": "Ask if upgrade is required.",
+        "date": null,
+        "status": "1",
+        "priority": null,
+        "manager": "John Heart",
+        "contactId": 46
+    },
+    {
+        "text": "Call to clarify customer requirements.",
+        "date": null,
+        "status": "0",
+        "priority": null,
+        "manager": "John Heart",
+        "contactId": 40
+    },
+    {
+        "text": "Send pictures/brochures of new products.",
+        "date": null,
+        "status": "0",
+        "priority": null,
+        "manager": "John Heart",
+        "contactId": 40
+    },
+    {
+        "text": "Follow up and discuss the offer.",
+        "date": null,
+        "status": "0",
+        "priority": null,
+        "manager": "John Heart",
+        "contactId": 40
+    },
+    {
+        "text": "Obtain CEO contact information.",
+        "date": null,
+        "status": "0",
+        "priority": null,
+        "manager": "John Heart",
+        "contactId": 40
+    },
+    {
+        "text": "Create requested product comparison report.",
+        "date": null,
+        "status": "0",
+        "priority": null,
+        "manager": "John Heart",
+        "contactId": 40
+    },
+    {
+        "text": "Generate a quote.",
+        "date": null,
+        "status": "0",
+        "priority": null,
+        "manager": "John Heart",
+        "contactId": 40
+    },
+    {
+        "text": "Follow up and address recent feedback.",
+        "date": null,
+        "status": "0",
+        "priority": null,
+        "manager": "John Heart",
+        "contactId": 40
+    },
+    {
+        "text": "Apply discounts and generate a binding offer.",
+        "date": null,
+        "status": "0",
+        "priority": null,
+        "manager": "John Heart",
+        "contactId": 40
+    },
+    {
+        "text": "Obtain feedback on new equipment.",
+        "date": null,
+        "status": "0",
+        "priority": null,
+        "manager": "John Heart",
+        "contactId": 40
+    },
+    {
+        "text": "Send SWAG to customer.",
+        "date": null,
+        "status": "1",
+        "priority": null,
+        "manager": "John Heart",
+        "contactId": 40
+    },
+    {
+        "text": "Ask if upgrade is required.",
+        "date": null,
+        "status": "1",
+        "priority": null,
+        "manager": "John Heart",
+        "contactId": 40
+    },
+    {
+        "text": "Call to clarify customer requirements.",
+        "date": null,
+        "status": "0",
+        "priority": null,
+        "manager": "Samantha Bright",
+        "contactId": 45
+    },
+    {
+        "text": "Send pictures/brochures of new products.",
+        "date": null,
+        "status": "0",
+        "priority": null,
+        "manager": "Samantha Bright",
+        "contactId": 45
+    },
+    {
+        "text": "Follow up and discuss the offer.",
+        "date": null,
+        "status": "0",
+        "priority": null,
+        "manager": "Samantha Bright",
+        "contactId": 45
+    },
+    {
+        "text": "Obtain CEO contact information.",
+        "date": null,
+        "status": "0",
+        "priority": null,
+        "manager": "Samantha Bright",
+        "contactId": 45
+    },
+    {
+        "text": "Create requested product comparison report.",
+        "date": null,
+        "status": "0",
+        "priority": null,
+        "manager": "Samantha Bright",
+        "contactId": 45
+    },
+    {
+        "text": "Generate a quote.",
+        "date": null,
+        "status": "0",
+        "priority": null,
+        "manager": "Samantha Bright",
+        "contactId": 45
+    },
+    {
+        "text": "Follow up and address recent feedback.",
+        "date": null,
+        "status": "0",
+        "priority": null,
+        "manager": "Samantha Bright",
+        "contactId": 45
+    },
+    {
+        "text": "Apply discounts and generate a binding offer.",
+        "date": null,
+        "status": "0",
+        "priority": null,
+        "manager": "Samantha Bright",
+        "contactId": 45
+    },
+    {
+        "text": "Obtain feedback on new equipment.",
+        "date": null,
+        "status": "0",
+        "priority": null,
+        "manager": "Samantha Bright",
+        "contactId": 45
+    },
+    {
+        "text": "Send SWAG to customer.",
+        "date": null,
+        "status": "1",
+        "priority": null,
+        "manager": "Samantha Bright",
+        "contactId": 45
+    },
+    {
+        "text": "Ask if upgrade is required.",
+        "date": null,
+        "status": "1",
+        "priority": null,
+        "manager": "Samantha Bright",
+        "contactId": 45
+    },
+    {
+        "text": "Call to clarify customer requirements.",
+        "date": null,
+        "status": "0",
+        "priority": null,
+        "manager": "John Heart",
+        "contactId": 26
+    },
+    {
+        "text": "Send pictures/brochures of new products.",
+        "date": null,
+        "status": "0",
+        "priority": null,
+        "manager": "John Heart",
+        "contactId": 26
+    },
+    {
+        "text": "Follow up and discuss the offer.",
+        "date": null,
+        "status": "0",
+        "priority": null,
+        "manager": "John Heart",
+        "contactId": 26
+    },
+    {
+        "text": "Obtain CEO contact information.",
+        "date": null,
+        "status": "0",
+        "priority": null,
+        "manager": "John Heart",
+        "contactId": 26
+    },
+    {
+        "text": "Create requested product comparison report.",
+        "date": null,
+        "status": "0",
+        "priority": null,
+        "manager": "John Heart",
+        "contactId": 26
+    },
+    {
+        "text": "Generate a quote.",
+        "date": null,
+        "status": "0",
+        "priority": null,
+        "manager": "John Heart",
+        "contactId": 26
+    },
+    {
+        "text": "Follow up and address recent feedback.",
+        "date": null,
+        "status": "0",
+        "priority": null,
+        "manager": "John Heart",
+        "contactId": 26
+    },
+    {
+        "text": "Apply discounts and generate a binding offer.",
+        "date": null,
+        "status": "0",
+        "priority": null,
+        "manager": "John Heart",
+        "contactId": 26
+    },
+    {
+        "text": "Obtain feedback on new equipment.",
+        "date": null,
+        "status": "0",
+        "priority": null,
+        "manager": "John Heart",
+        "contactId": 26
+    },
+    {
+        "text": "Send SWAG to customer.",
+        "date": null,
+        "status": "1",
+        "priority": null,
+        "manager": "John Heart",
+        "contactId": 26
+    },
+    {
+        "text": "Ask if upgrade is required.",
+        "date": null,
+        "status": "1",
+        "priority": null,
+        "manager": "John Heart",
+        "contactId": 26
+    },
+    {
+        "text": "Call to clarify customer requirements.",
+        "date": null,
+        "status": "0",
+        "priority": null,
+        "manager": "John Heart",
+        "contactId": 44
+    },
+    {
+        "text": "Send pictures/brochures of new products.",
+        "date": null,
+        "status": "0",
+        "priority": null,
+        "manager": "John Heart",
+        "contactId": 44
+    },
+    {
+        "text": "Follow up and discuss the offer.",
+        "date": null,
+        "status": "0",
+        "priority": null,
+        "manager": "John Heart",
+        "contactId": 44
+    },
+    {
+        "text": "Obtain CEO contact information.",
+        "date": null,
+        "status": "0",
+        "priority": null,
+        "manager": "John Heart",
+        "contactId": 44
+    },
+    {
+        "text": "Create requested product comparison report.",
+        "date": null,
+        "status": "0",
+        "priority": null,
+        "manager": "John Heart",
+        "contactId": 44
+    },
+    {
+        "text": "Generate a quote.",
+        "date": null,
+        "status": "0",
+        "priority": null,
+        "manager": "John Heart",
+        "contactId": 44
+    },
+    {
+        "text": "Follow up and address recent feedback.",
+        "date": null,
+        "status": "0",
+        "priority": null,
+        "manager": "John Heart",
+        "contactId": 44
+    },
+    {
+        "text": "Apply discounts and generate a binding offer.",
+        "date": null,
+        "status": "0",
+        "priority": null,
+        "manager": "John Heart",
+        "contactId": 44
+    },
+    {
+        "text": "Send SWAG to customer.",
+        "date": null,
+        "status": "1",
+        "priority": null,
+        "manager": "John Heart",
+        "contactId": 44
+    },
+    {
+        "text": "Ask if upgrade is required.",
+        "date": null,
+        "status": "1",
+        "priority": null,
+        "manager": "John Heart",
+        "contactId": 44
+    }
+]

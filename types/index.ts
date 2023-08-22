@@ -1,24 +1,31 @@
-export type ReactionType = 'smile' | 'heart' | 'fire' | 'crying';
+export type ContactLink = { contactId: number };
 
-export type User = {
-  ID: string;
-  PublicName: string;
-  Bio: string;
-  PublicLocation: string;
-  AvatarURL: string;
-}
+export type Contact = {
+  id: number;
+  name: string;
+  position: string;
+  status: string;
+  company: string;
+  phone: string;
+  email: string;
+  assignedTo: string;
+};
 
-export type Post = {
-  ID: string;
-  AuthorID: string;
-  PostedAt: string;
-  Content: string;
-}
+export type TaskUITG = {
+  text: string;
+  date: string;
+  status: string;
+  priority: string;
+  manager: string;
+};
 
-export type Reaction = {
-  ID: string;
-  AuthorID: string;
-  PostID: string;
-  LeftAt: string;
-  ReactionType: ReactionType;
-}
+export type Task = TaskUITG & ContactLink;
+
+export type MessageUITG = {
+  text: string;
+  subject: string;
+  date: string;
+  manager: string;
+};
+
+export type Message = MessageUITG & ContactLink;

@@ -1,0 +1,688 @@
+[
+    {
+        "text": "Hello {username}. We discussed your counteroffer with our CEO. Could you please forward your final technical requirements, so we can prepare a binding quote?\\nP.S. Do you offer any discounts for bulk orders?",
+        "subject": "Regarding your offer",
+        "date": "2023-08-19T15:26:12.814Z",
+        "manager": "Samantha Bright",
+        "contactId": 35
+    },
+    {
+        "text": "Hello {username}, As promised I'm sending a quote for your recent equipment request. Please note, we included pricing for our most recent models. If your budget is limited, we can offer last year models instead. Please let me know if you have any questions. Hope to hear from you soon.",
+        "subject": "A quote for the video equipment",
+        "date": "2023-08-03T02:29:04.561Z",
+        "manager": "Samantha Bright",
+        "contactId": 35
+    },
+    {
+        "text": "Hello {username}. Yesterday we talked about an audio equipment upgrade for your organization. I have great news for you. We've discussed your requirements and I can offer a 15% discount if your order exceeds $50,000. If you'd like to lock-in a 3 year contract, we will be happy to increase our discount to 20%.",
+        "subject": "Great news about your equipment upgrade",
+        "date": "2023-08-09T02:40:51.527Z",
+        "manager": "John Heart",
+        "contactId": 9
+    },
+    {
+        "text": "Hello {username}, As promised I'm sending a quote for your recent equipment request. Please note, we included pricing for our most recent models. If your budget is limited, we can offer last year models instead. Please let me know if you have any questions. Hope to hear from you soon.",
+        "subject": "A quote for the video equipment",
+        "date": "2023-07-26T12:13:15.360Z",
+        "manager": "Samantha Bright",
+        "contactId": 9
+    },
+    {
+        "text": "Hello {username}. We discussed your counteroffer with our CEO. Could you please forward your final technical requirements, so we can prepare a binding quote?\\nP.S. Do you offer any discounts for bulk orders?",
+        "subject": "Regarding your offer",
+        "date": "2023-08-18T02:03:20.569Z",
+        "manager": "Samantha Bright",
+        "contactId": 29
+    },
+    {
+        "text": "Hello {username}, As promised I'm sending a quote for your recent equipment request. Please note, we included pricing for our most recent models. If your budget is limited, we can offer last year models instead. Please let me know if you have any questions. Hope to hear from you soon.",
+        "subject": "A quote for the video equipment",
+        "date": "2023-08-03T07:37:15.738Z",
+        "manager": "Samantha Bright",
+        "contactId": 29
+    },
+    {
+        "text": "Hello {username}. We discussed your counteroffer with our CEO. Could you please forward your final technical requirements, so we can prepare a binding quote?\\nP.S. Do you offer any discounts for bulk orders?",
+        "subject": "Regarding your offer",
+        "date": "2023-08-16T18:14:49.854Z",
+        "manager": "John Heart",
+        "contactId": 32
+    },
+    {
+        "text": "Hello {username}, As promised I'm sending a quote for your recent equipment request. Please note, we included pricing for our most recent models. If your budget is limited, we can offer last year models instead. Please let me know if you have any questions. Hope to hear from you soon.",
+        "subject": "A quote for the video equipment",
+        "date": "2023-08-16T05:25:17.570Z",
+        "manager": "John Heart",
+        "contactId": 32
+    },
+    {
+        "text": "Hello {username}. Yesterday we talked about an audio equipment upgrade for your organization. I have great news for you. We've discussed your requirements and I can offer a 15% discount if your order exceeds $50,000. If you'd like to lock-in a 3 year contract, we will be happy to increase our discount to 20%.",
+        "subject": "Great news about your equipment upgrade",
+        "date": "2023-07-24T16:11:51.234Z",
+        "manager": "John Heart",
+        "contactId": 42
+    },
+    {
+        "text": "Hello {username}, As promised I'm sending a quote for your recent equipment request. Please note, we included pricing for our most recent models. If your budget is limited, we can offer last year models instead. Please let me know if you have any questions. Hope to hear from you soon.",
+        "subject": "A quote for the video equipment",
+        "date": "2023-07-15T02:09:51.231Z",
+        "manager": "John Heart",
+        "contactId": 42
+    },
+    {
+        "text": "Hello {username}. Yesterday we talked about an audio equipment upgrade for your organization. I have great news for you. We've discussed your requirements and I can offer a 15% discount if your order exceeds $50,000. If you'd like to lock-in a 3 year contract, we will be happy to increase our discount to 20%.",
+        "subject": "Great news about your equipment upgrade",
+        "date": "2023-07-09T02:46:35.500Z",
+        "manager": "John Heart",
+        "contactId": 10
+    },
+    {
+        "text": "Hello {username}. We discussed your counteroffer with our CEO. Could you please forward your final technical requirements, so we can prepare a binding quote?\\nP.S. Do you offer any discounts for bulk orders?",
+        "subject": "Regarding your offer",
+        "date": "2023-07-16T11:26:35.034Z",
+        "manager": "John Heart",
+        "contactId": 10
+    },
+    {
+        "text": "Hello {username}. We discussed your counteroffer with our CEO. Could you please forward your final technical requirements, so we can prepare a binding quote?\\nP.S. Do you offer any discounts for bulk orders?",
+        "subject": "Regarding your offer",
+        "date": "2023-07-27T00:29:03.095Z",
+        "manager": "Samantha Bright",
+        "contactId": 17
+    },
+    {
+        "text": "Hello {username}, As promised I'm sending a quote for your recent equipment request. Please note, we included pricing for our most recent models. If your budget is limited, we can offer last year models instead. Please let me know if you have any questions. Hope to hear from you soon.",
+        "subject": "A quote for the video equipment",
+        "date": "2023-08-02T15:14:32.995Z",
+        "manager": "Samantha Bright",
+        "contactId": 17
+    },
+    {
+        "text": "Hello {username}. Yesterday we talked about an audio equipment upgrade for your organization. I have great news for you. We've discussed your requirements and I can offer a 15% discount if your order exceeds $50,000. If you'd like to lock-in a 3 year contract, we will be happy to increase our discount to 20%.",
+        "subject": "Great news about your equipment upgrade",
+        "date": "2023-07-26T18:30:12.167Z",
+        "manager": "John Heart",
+        "contactId": 3
+    },
+    {
+        "text": "Hello {username}, As promised I'm sending a quote for your recent equipment request. Please note, we included pricing for our most recent models. If your budget is limited, we can offer last year models instead. Please let me know if you have any questions. Hope to hear from you soon.",
+        "subject": "A quote for the video equipment",
+        "date": "2023-08-19T07:29:21.702Z",
+        "manager": "Samantha Bright",
+        "contactId": 3
+    },
+    {
+        "text": "Hello {username}. We discussed your counteroffer with our CEO. Could you please forward your final technical requirements, so we can prepare a binding quote?\\nP.S. Do you offer any discounts for bulk orders?",
+        "subject": "Regarding your offer",
+        "date": "2023-07-30T09:33:42.489Z",
+        "manager": "John Heart",
+        "contactId": 8
+    },
+    {
+        "text": "Hello {username}, As promised I'm sending a quote for your recent equipment request. Please note, we included pricing for our most recent models. If your budget is limited, we can offer last year models instead. Please let me know if you have any questions. Hope to hear from you soon.",
+        "subject": "A quote for the video equipment",
+        "date": "2023-08-05T22:41:32.105Z",
+        "manager": "John Heart",
+        "contactId": 8
+    },
+    {
+        "text": "Hello {username}. Yesterday we talked about an audio equipment upgrade for your organization. I have great news for you. We've discussed your requirements and I can offer a 15% discount if your order exceeds $50,000. If you'd like to lock-in a 3 year contract, we will be happy to increase our discount to 20%.",
+        "subject": "Great news about your equipment upgrade",
+        "date": "2023-07-31T21:57:04.054Z",
+        "manager": "John Heart",
+        "contactId": 4
+    },
+    {
+        "text": "Hello {username}. We discussed your counteroffer with our CEO. Could you please forward your final technical requirements, so we can prepare a binding quote?\\nP.S. Do you offer any discounts for bulk orders?",
+        "subject": "Regarding your offer",
+        "date": "2023-08-03T11:36:54.214Z",
+        "manager": "John Heart",
+        "contactId": 4
+    },
+    {
+        "text": "Hello {username}. Yesterday we talked about an audio equipment upgrade for your organization. I have great news for you. We've discussed your requirements and I can offer a 15% discount if your order exceeds $50,000. If you'd like to lock-in a 3 year contract, we will be happy to increase our discount to 20%.",
+        "subject": "Great news about your equipment upgrade",
+        "date": "2023-07-30T01:37:59.032Z",
+        "manager": "John Heart",
+        "contactId": 15
+    },
+    {
+        "text": "Hello {username}, As promised I'm sending a quote for your recent equipment request. Please note, we included pricing for our most recent models. If your budget is limited, we can offer last year models instead. Please let me know if you have any questions. Hope to hear from you soon.",
+        "subject": "A quote for the video equipment",
+        "date": "2023-08-12T01:08:56.188Z",
+        "manager": "John Heart",
+        "contactId": 15
+    },
+    {
+        "text": "Hello {username}. Yesterday we talked about an audio equipment upgrade for your organization. I have great news for you. We've discussed your requirements and I can offer a 15% discount if your order exceeds $50,000. If you'd like to lock-in a 3 year contract, we will be happy to increase our discount to 20%.",
+        "subject": "Great news about your equipment upgrade",
+        "date": "2023-07-28T14:06:20.459Z",
+        "manager": "John Heart",
+        "contactId": 28
+    },
+    {
+        "text": "Hello {username}. We discussed your counteroffer with our CEO. Could you please forward your final technical requirements, so we can prepare a binding quote?\\nP.S. Do you offer any discounts for bulk orders?",
+        "subject": "Regarding your offer",
+        "date": "2023-08-09T00:53:07.032Z",
+        "manager": "John Heart",
+        "contactId": 28
+    },
+    {
+        "text": "Hello {username}. We discussed your counteroffer with our CEO. Could you please forward your final technical requirements, so we can prepare a binding quote?\\nP.S. Do you offer any discounts for bulk orders?",
+        "subject": "Regarding your offer",
+        "date": "2023-07-25T13:34:20.266Z",
+        "manager": "Samantha Bright",
+        "contactId": 11
+    },
+    {
+        "text": "Hello {username}, As promised I'm sending a quote for your recent equipment request. Please note, we included pricing for our most recent models. If your budget is limited, we can offer last year models instead. Please let me know if you have any questions. Hope to hear from you soon.",
+        "subject": "A quote for the video equipment",
+        "date": "2023-07-20T02:25:45.244Z",
+        "manager": "Samantha Bright",
+        "contactId": 11
+    },
+    {
+        "text": "Hello {username}. Yesterday we talked about an audio equipment upgrade for your organization. I have great news for you. We've discussed your requirements and I can offer a 15% discount if your order exceeds $50,000. If you'd like to lock-in a 3 year contract, we will be happy to increase our discount to 20%.",
+        "subject": "Great news about your equipment upgrade",
+        "date": "2023-07-23T11:24:51.532Z",
+        "manager": "John Heart",
+        "contactId": 6
+    },
+    {
+        "text": "Hello {username}, As promised I'm sending a quote for your recent equipment request. Please note, we included pricing for our most recent models. If your budget is limited, we can offer last year models instead. Please let me know if you have any questions. Hope to hear from you soon.",
+        "subject": "A quote for the video equipment",
+        "date": "2023-08-13T21:33:33.218Z",
+        "manager": "John Heart",
+        "contactId": 6
+    },
+    {
+        "text": "Hello {username}. Yesterday we talked about an audio equipment upgrade for your organization. I have great news for you. We've discussed your requirements and I can offer a 15% discount if your order exceeds $50,000. If you'd like to lock-in a 3 year contract, we will be happy to increase our discount to 20%.",
+        "subject": "Great news about your equipment upgrade",
+        "date": "2023-07-10T12:11:24.007Z",
+        "manager": "John Heart",
+        "contactId": 12
+    },
+    {
+        "text": "Hello {username}, As promised I'm sending a quote for your recent equipment request. Please note, we included pricing for our most recent models. If your budget is limited, we can offer last year models instead. Please let me know if you have any questions. Hope to hear from you soon.",
+        "subject": "A quote for the video equipment",
+        "date": "2023-07-20T10:31:32.177Z",
+        "manager": "Sammy Hill",
+        "contactId": 12
+    },
+    {
+        "text": "Hello {username}. We discussed your counteroffer with our CEO. Could you please forward your final technical requirements, so we can prepare a binding quote?\\nP.S. Do you offer any discounts for bulk orders?",
+        "subject": "Regarding your offer",
+        "date": "2023-08-01T00:43:46.998Z",
+        "manager": "John Heart",
+        "contactId": 12
+    },
+    {
+        "text": "Hello {username}. Yesterday we talked about an audio equipment upgrade for your organization. I have great news for you. We've discussed your requirements and I can offer a 15% discount if your order exceeds $50,000. If you'd like to lock-in a 3 year contract, we will be happy to increase our discount to 20%.",
+        "subject": "Great news about your equipment upgrade",
+        "date": "2023-08-04T05:58:02.089Z",
+        "manager": "Sammy Hill",
+        "contactId": 12
+    },
+    {
+        "text": "Hello {username}, As promised I'm sending a quote for your recent equipment request. Please note, we included pricing for our most recent models. If your budget is limited, we can offer last year models instead. Please let me know if you have any questions. Hope to hear from you soon.",
+        "subject": "A quote for the video equipment",
+        "date": "2023-08-22T07:13:39.340Z",
+        "manager": "John Heart",
+        "contactId": 12
+    },
+    {
+        "text": "Hello {username}. We discussed your counteroffer with our CEO. Could you please forward your final technical requirements, so we can prepare a binding quote?\\nP.S. Do you offer any discounts for bulk orders?",
+        "subject": "Regarding your offer",
+        "date": "2023-07-15T17:29:24.473Z",
+        "manager": "Sammy Hill",
+        "contactId": 12
+    },
+    {
+        "text": "Hello {username}. Yesterday we talked about an audio equipment upgrade for your organization. I have great news for you. We've discussed your requirements and I can offer a 15% discount if your order exceeds $50,000. If you'd like to lock-in a 3 year contract, we will be happy to increase our discount to 20%.",
+        "subject": "Great news about your equipment upgrade",
+        "date": "2023-07-14T18:58:20.570Z",
+        "manager": "John Heart",
+        "contactId": 43
+    },
+    {
+        "text": "Hello {username}. We discussed your counteroffer with our CEO. Could you please forward your final technical requirements, so we can prepare a binding quote?\\nP.S. Do you offer any discounts for bulk orders?",
+        "subject": "Regarding your offer",
+        "date": "2023-08-02T11:31:50.145Z",
+        "manager": "Samantha Bright",
+        "contactId": 43
+    },
+    {
+        "text": "Hello {username}. Yesterday we talked about an audio equipment upgrade for your organization. I have great news for you. We've discussed your requirements and I can offer a 15% discount if your order exceeds $50,000. If you'd like to lock-in a 3 year contract, we will be happy to increase our discount to 20%.",
+        "subject": "Great news about your equipment upgrade",
+        "date": "2023-08-17T03:22:46.273Z",
+        "manager": "John Heart",
+        "contactId": 25
+    },
+    {
+        "text": "Hello {username}. We discussed your counteroffer with our CEO. Could you please forward your final technical requirements, so we can prepare a binding quote?\\nP.S. Do you offer any discounts for bulk orders?",
+        "subject": "Regarding your offer",
+        "date": "2023-08-09T12:08:31.728Z",
+        "manager": "Samantha Bright",
+        "contactId": 25
+    },
+    {
+        "text": "Hello {username}. Yesterday we talked about an audio equipment upgrade for your organization. I have great news for you. We've discussed your requirements and I can offer a 15% discount if your order exceeds $50,000. If you'd like to lock-in a 3 year contract, we will be happy to increase our discount to 20%.",
+        "subject": "Great news about your equipment upgrade",
+        "date": "2023-07-14T01:14:52.213Z",
+        "manager": "John Heart",
+        "contactId": 39
+    },
+    {
+        "text": "Hello {username}, As promised I'm sending a quote for your recent equipment request. Please note, we included pricing for our most recent models. If your budget is limited, we can offer last year models instead. Please let me know if you have any questions. Hope to hear from you soon.",
+        "subject": "A quote for the video equipment",
+        "date": "2023-08-04T11:39:00.178Z",
+        "manager": "Samantha Bright",
+        "contactId": 39
+    },
+    {
+        "text": "Hello {username}. Yesterday we talked about an audio equipment upgrade for your organization. I have great news for you. We've discussed your requirements and I can offer a 15% discount if your order exceeds $50,000. If you'd like to lock-in a 3 year contract, we will be happy to increase our discount to 20%.",
+        "subject": "Great news about your equipment upgrade",
+        "date": "2023-07-28T21:00:10.185Z",
+        "manager": "John Heart",
+        "contactId": 22
+    },
+    {
+        "text": "Hello {username}. We discussed your counteroffer with our CEO. Could you please forward your final technical requirements, so we can prepare a binding quote?\\nP.S. Do you offer any discounts for bulk orders?",
+        "subject": "Regarding your offer",
+        "date": "2023-07-31T15:47:06.268Z",
+        "manager": "John Heart",
+        "contactId": 22
+    },
+    {
+        "text": "Hello {username}. Yesterday we talked about an audio equipment upgrade for your organization. I have great news for you. We've discussed your requirements and I can offer a 15% discount if your order exceeds $50,000. If you'd like to lock-in a 3 year contract, we will be happy to increase our discount to 20%.",
+        "subject": "Great news about your equipment upgrade",
+        "date": "2023-08-12T23:43:41.208Z",
+        "manager": "John Heart",
+        "contactId": 18
+    },
+    {
+        "text": "Hello {username}, As promised I'm sending a quote for your recent equipment request. Please note, we included pricing for our most recent models. If your budget is limited, we can offer last year models instead. Please let me know if you have any questions. Hope to hear from you soon.",
+        "subject": "A quote for the video equipment",
+        "date": "2023-07-13T19:58:09.259Z",
+        "manager": "John Heart",
+        "contactId": 18
+    },
+    {
+        "text": "Hello {username}. We discussed your counteroffer with our CEO. Could you please forward your final technical requirements, so we can prepare a binding quote?\\nP.S. Do you offer any discounts for bulk orders?",
+        "subject": "Regarding your offer",
+        "date": "2023-07-21T11:44:30.941Z",
+        "manager": "Samantha Bright",
+        "contactId": 41
+    },
+    {
+        "text": "Hello {username}, As promised I'm sending a quote for your recent equipment request. Please note, we included pricing for our most recent models. If your budget is limited, we can offer last year models instead. Please let me know if you have any questions. Hope to hear from you soon.",
+        "subject": "A quote for the video equipment",
+        "date": "2023-08-07T23:14:35.202Z",
+        "manager": "Samantha Bright",
+        "contactId": 41
+    },
+    {
+        "text": "Hello {username}. We discussed your counteroffer with our CEO. Could you please forward your final technical requirements, so we can prepare a binding quote?\\nP.S. Do you offer any discounts for bulk orders?",
+        "subject": "Regarding your offer",
+        "date": "2023-07-28T06:23:46.213Z",
+        "manager": "Samantha Bright",
+        "contactId": 23
+    },
+    {
+        "text": "Hello {username}, As promised I'm sending a quote for your recent equipment request. Please note, we included pricing for our most recent models. If your budget is limited, we can offer last year models instead. Please let me know if you have any questions. Hope to hear from you soon.",
+        "subject": "A quote for the video equipment",
+        "date": "2023-08-10T00:10:05.833Z",
+        "manager": "Samantha Bright",
+        "contactId": 23
+    },
+    {
+        "text": "Hello {username}. We discussed your counteroffer with our CEO. Could you please forward your final technical requirements, so we can prepare a binding quote?\\nP.S. Do you offer any discounts for bulk orders?",
+        "subject": "Regarding your offer",
+        "date": "2023-08-01T17:18:16.708Z",
+        "manager": "John Heart",
+        "contactId": 20
+    },
+    {
+        "text": "Hello {username}, As promised I'm sending a quote for your recent equipment request. Please note, we included pricing for our most recent models. If your budget is limited, we can offer last year models instead. Please let me know if you have any questions. Hope to hear from you soon.",
+        "subject": "A quote for the video equipment",
+        "date": "2023-08-20T16:37:52.948Z",
+        "manager": "John Heart",
+        "contactId": 20
+    },
+    {
+        "text": "Hello {username}. Yesterday we talked about an audio equipment upgrade for your organization. I have great news for you. We've discussed your requirements and I can offer a 15% discount if your order exceeds $50,000. If you'd like to lock-in a 3 year contract, we will be happy to increase our discount to 20%.",
+        "subject": "Great news about your equipment upgrade",
+        "date": "2023-08-07T04:40:05.148Z",
+        "manager": "John Heart",
+        "contactId": 7
+    },
+    {
+        "text": "Hello {username}. We discussed your counteroffer with our CEO. Could you please forward your final technical requirements, so we can prepare a binding quote?\\nP.S. Do you offer any discounts for bulk orders?",
+        "subject": "Regarding your offer",
+        "date": "2023-07-24T00:32:20.971Z",
+        "manager": "Samantha Bright",
+        "contactId": 7
+    },
+    {
+        "text": "Hello {username}. Yesterday we talked about an audio equipment upgrade for your organization. I have great news for you. We've discussed your requirements and I can offer a 15% discount if your order exceeds $50,000. If you'd like to lock-in a 3 year contract, we will be happy to increase our discount to 20%.",
+        "subject": "Great news about your equipment upgrade",
+        "date": "2023-08-13T14:06:22.067Z",
+        "manager": "John Heart",
+        "contactId": 19
+    },
+    {
+        "text": "Hello {username}. We discussed your counteroffer with our CEO. Could you please forward your final technical requirements, so we can prepare a binding quote?\\nP.S. Do you offer any discounts for bulk orders?",
+        "subject": "Regarding your offer",
+        "date": "2023-07-19T19:20:38.852Z",
+        "manager": "Samantha Bright",
+        "contactId": 19
+    },
+    {
+        "text": "Hello {username}. Yesterday we talked about an audio equipment upgrade for your organization. I have great news for you. We've discussed your requirements and I can offer a 15% discount if your order exceeds $50,000. If you'd like to lock-in a 3 year contract, we will be happy to increase our discount to 20%.",
+        "subject": "Great news about your equipment upgrade",
+        "date": "2023-08-06T07:08:47.806Z",
+        "manager": "John Heart",
+        "contactId": 48
+    },
+    {
+        "text": "Hello {username}, As promised I'm sending a quote for your recent equipment request. Please note, we included pricing for our most recent models. If your budget is limited, we can offer last year models instead. Please let me know if you have any questions. Hope to hear from you soon.",
+        "subject": "A quote for the video equipment",
+        "date": "2023-07-29T05:16:23.776Z",
+        "manager": "John Heart",
+        "contactId": 48
+    },
+    {
+        "text": "Hello {username}. Yesterday we talked about an audio equipment upgrade for your organization. I have great news for you. We've discussed your requirements and I can offer a 15% discount if your order exceeds $50,000. If you'd like to lock-in a 3 year contract, we will be happy to increase our discount to 20%.",
+        "subject": "Great news about your equipment upgrade",
+        "date": "2023-07-24T01:07:44.658Z",
+        "manager": "John Heart",
+        "contactId": 51
+    },
+    {
+        "text": "Hello {username}, As promised I'm sending a quote for your recent equipment request. Please note, we included pricing for our most recent models. If your budget is limited, we can offer last year models instead. Please let me know if you have any questions. Hope to hear from you soon.",
+        "subject": "A quote for the video equipment",
+        "date": "2023-08-07T09:13:09.782Z",
+        "manager": "Samantha Bright",
+        "contactId": 51
+    },
+    {
+        "text": "Hello {username}. Yesterday we talked about an audio equipment upgrade for your organization. I have great news for you. We've discussed your requirements and I can offer a 15% discount if your order exceeds $50,000. If you'd like to lock-in a 3 year contract, we will be happy to increase our discount to 20%.",
+        "subject": "Great news about your equipment upgrade",
+        "date": "2023-07-16T20:04:18.542Z",
+        "manager": "John Heart",
+        "contactId": 30
+    },
+    {
+        "text": "Hello {username}, As promised I'm sending a quote for your recent equipment request. Please note, we included pricing for our most recent models. If your budget is limited, we can offer last year models instead. Please let me know if you have any questions. Hope to hear from you soon.",
+        "subject": "A quote for the video equipment",
+        "date": "2023-08-08T01:09:48.777Z",
+        "manager": "John Heart",
+        "contactId": 30
+    },
+    {
+        "text": "Hello {username}. Yesterday we talked about an audio equipment upgrade for your organization. I have great news for you. We've discussed your requirements and I can offer a 15% discount if your order exceeds $50,000. If you'd like to lock-in a 3 year contract, we will be happy to increase our discount to 20%.",
+        "subject": "Great news about your equipment upgrade",
+        "date": "2023-08-17T05:39:46.190Z",
+        "manager": "John Heart",
+        "contactId": 31
+    },
+    {
+        "text": "Hello {username}. We discussed your counteroffer with our CEO. Could you please forward your final technical requirements, so we can prepare a binding quote?\\nP.S. Do you offer any discounts for bulk orders?",
+        "subject": "Regarding your offer",
+        "date": "2023-07-13T22:31:21.982Z",
+        "manager": "Samantha Bright",
+        "contactId": 31
+    },
+    {
+        "text": "Hello {username}. Yesterday we talked about an audio equipment upgrade for your organization. I have great news for you. We've discussed your requirements and I can offer a 15% discount if your order exceeds $50,000. If you'd like to lock-in a 3 year contract, we will be happy to increase our discount to 20%.",
+        "subject": "Great news about your equipment upgrade",
+        "date": "2023-08-06T18:04:14.091Z",
+        "manager": "John Heart",
+        "contactId": 36
+    },
+    {
+        "text": "Hello {username}, As promised I'm sending a quote for your recent equipment request. Please note, we included pricing for our most recent models. If your budget is limited, we can offer last year models instead. Please let me know if you have any questions. Hope to hear from you soon.",
+        "subject": "A quote for the video equipment",
+        "date": "2023-08-01T22:56:30.941Z",
+        "manager": "John Heart",
+        "contactId": 36
+    },
+    {
+        "text": "Hello {username}. We discussed your counteroffer with our CEO. Could you please forward your final technical requirements, so we can prepare a binding quote?\\nP.S. Do you offer any discounts for bulk orders?",
+        "subject": "Regarding your offer",
+        "date": "2023-08-10T01:20:26.596Z",
+        "manager": "John Heart",
+        "contactId": 38
+    },
+    {
+        "text": "Hello {username}, As promised I'm sending a quote for your recent equipment request. Please note, we included pricing for our most recent models. If your budget is limited, we can offer last year models instead. Please let me know if you have any questions. Hope to hear from you soon.",
+        "subject": "A quote for the video equipment",
+        "date": "2023-08-20T12:15:10.787Z",
+        "manager": "John Heart",
+        "contactId": 38
+    },
+    {
+        "text": "Hello {username}. We discussed your counteroffer with our CEO. Could you please forward your final technical requirements, so we can prepare a binding quote?\\nP.S. Do you offer any discounts for bulk orders?",
+        "subject": "Regarding your offer",
+        "date": "2023-07-10T10:21:34.569Z",
+        "manager": "Samantha Bright",
+        "contactId": 5
+    },
+    {
+        "text": "Hello {username}, As promised I'm sending a quote for your recent equipment request. Please note, we included pricing for our most recent models. If your budget is limited, we can offer last year models instead. Please let me know if you have any questions. Hope to hear from you soon.",
+        "subject": "A quote for the video equipment",
+        "date": "2023-07-24T23:18:55.078Z",
+        "manager": "Samantha Bright",
+        "contactId": 5
+    },
+    {
+        "text": "Hello {username}. Yesterday we talked about an audio equipment upgrade for your organization. I have great news for you. We've discussed your requirements and I can offer a 15% discount if your order exceeds $50,000. If you'd like to lock-in a 3 year contract, we will be happy to increase our discount to 20%.",
+        "subject": "Great news about your equipment upgrade",
+        "date": "2023-08-05T01:31:48.750Z",
+        "manager": "John Heart",
+        "contactId": 34
+    },
+    {
+        "text": "Hello {username}. We discussed your counteroffer with our CEO. Could you please forward your final technical requirements, so we can prepare a binding quote?\\nP.S. Do you offer any discounts for bulk orders?",
+        "subject": "Regarding your offer",
+        "date": "2023-08-22T04:02:06.758Z",
+        "manager": "John Heart",
+        "contactId": 34
+    },
+    {
+        "text": "Hello {username}. Yesterday we talked about an audio equipment upgrade for your organization. I have great news for you. We've discussed your requirements and I can offer a 15% discount if your order exceeds $50,000. If you'd like to lock-in a 3 year contract, we will be happy to increase our discount to 20%.",
+        "subject": "Great news about your equipment upgrade",
+        "date": "2023-07-19T15:55:12.919Z",
+        "manager": "John Heart",
+        "contactId": 21
+    },
+    {
+        "text": "Hello {username}, As promised I'm sending a quote for your recent equipment request. Please note, we included pricing for our most recent models. If your budget is limited, we can offer last year models instead. Please let me know if you have any questions. Hope to hear from you soon.",
+        "subject": "A quote for the video equipment",
+        "date": "2023-08-16T12:35:58.072Z",
+        "manager": "Samantha Bright",
+        "contactId": 21
+    },
+    {
+        "text": "Hello {username}. Yesterday we talked about an audio equipment upgrade for your organization. I have great news for you. We've discussed your requirements and I can offer a 15% discount if your order exceeds $50,000. If you'd like to lock-in a 3 year contract, we will be happy to increase our discount to 20%.",
+        "subject": "Great news about your equipment upgrade",
+        "date": "2023-08-08T20:56:19.920Z",
+        "manager": "John Heart",
+        "contactId": 49
+    },
+    {
+        "text": "Hello {username}. We discussed your counteroffer with our CEO. Could you please forward your final technical requirements, so we can prepare a binding quote?\\nP.S. Do you offer any discounts for bulk orders?",
+        "subject": "Regarding your offer",
+        "date": "2023-08-18T19:32:48.843Z",
+        "manager": "Samantha Bright",
+        "contactId": 49
+    },
+    {
+        "text": "Hello {username}. Yesterday we talked about an audio equipment upgrade for your organization. I have great news for you. We've discussed your requirements and I can offer a 15% discount if your order exceeds $50,000. If you'd like to lock-in a 3 year contract, we will be happy to increase our discount to 20%.",
+        "subject": "Great news about your equipment upgrade",
+        "date": "2023-07-16T19:23:48.198Z",
+        "manager": "John Heart",
+        "contactId": 37
+    },
+    {
+        "text": "Hello {username}. We discussed your counteroffer with our CEO. Could you please forward your final technical requirements, so we can prepare a binding quote?\\nP.S. Do you offer any discounts for bulk orders?",
+        "subject": "Regarding your offer",
+        "date": "2023-07-18T00:20:38.382Z",
+        "manager": "Samantha Bright",
+        "contactId": 37
+    },
+    {
+        "text": "Hello {username}. Yesterday we talked about an audio equipment upgrade for your organization. I have great news for you. We've discussed your requirements and I can offer a 15% discount if your order exceeds $50,000. If you'd like to lock-in a 3 year contract, we will be happy to increase our discount to 20%.",
+        "subject": "Great news about your equipment upgrade",
+        "date": "2023-08-05T12:43:19.262Z",
+        "manager": "John Heart",
+        "contactId": 16
+    },
+    {
+        "text": "Hello {username}. We discussed your counteroffer with our CEO. Could you please forward your final technical requirements, so we can prepare a binding quote?\\nP.S. Do you offer any discounts for bulk orders?",
+        "subject": "Regarding your offer",
+        "date": "2023-08-22T10:14:44.104Z",
+        "manager": "John Heart",
+        "contactId": 16
+    },
+    {
+        "text": "Hello {username}. Yesterday we talked about an audio equipment upgrade for your organization. I have great news for you. We've discussed your requirements and I can offer a 15% discount if your order exceeds $50,000. If you'd like to lock-in a 3 year contract, we will be happy to increase our discount to 20%.",
+        "subject": "Great news about your equipment upgrade",
+        "date": "2023-07-30T23:49:54.632Z",
+        "manager": "John Heart",
+        "contactId": 24
+    },
+    {
+        "text": "Hello {username}, As promised I'm sending a quote for your recent equipment request. Please note, we included pricing for our most recent models. If your budget is limited, we can offer last year models instead. Please let me know if you have any questions. Hope to hear from you soon.",
+        "subject": "A quote for the video equipment",
+        "date": "2023-07-29T01:55:07.428Z",
+        "manager": "John Heart",
+        "contactId": 24
+    },
+    {
+        "text": "Hello {username}. We discussed your counteroffer with our CEO. Could you please forward your final technical requirements, so we can prepare a binding quote?\\nP.S. Do you offer any discounts for bulk orders?",
+        "subject": "Regarding your offer",
+        "date": "2023-07-29T07:46:07.422Z",
+        "manager": "John Heart",
+        "contactId": 50
+    },
+    {
+        "text": "Hello {username}, As promised I'm sending a quote for your recent equipment request. Please note, we included pricing for our most recent models. If your budget is limited, we can offer last year models instead. Please let me know if you have any questions. Hope to hear from you soon.",
+        "subject": "A quote for the video equipment",
+        "date": "2023-08-18T09:54:31.364Z",
+        "manager": "John Heart",
+        "contactId": 50
+    },
+    {
+        "text": "Hello {username}. Yesterday we talked about an audio equipment upgrade for your organization. I have great news for you. We've discussed your requirements and I can offer a 15% discount if your order exceeds $50,000. If you'd like to lock-in a 3 year contract, we will be happy to increase our discount to 20%.",
+        "subject": "Great news about your equipment upgrade",
+        "date": "2023-07-23T04:41:05.980Z",
+        "manager": "John Heart",
+        "contactId": 27
+    },
+    {
+        "text": "Hello {username}, As promised I'm sending a quote for your recent equipment request. Please note, we included pricing for our most recent models. If your budget is limited, we can offer last year models instead. Please let me know if you have any questions. Hope to hear from you soon.",
+        "subject": "A quote for the video equipment",
+        "date": "2023-07-15T18:32:45.408Z",
+        "manager": "Samantha Bright",
+        "contactId": 27
+    },
+    {
+        "text": "Hello {username}. We discussed your counteroffer with our CEO. Could you please forward your final technical requirements, so we can prepare a binding quote?\\nP.S. Do you offer any discounts for bulk orders?",
+        "subject": "Regarding your offer",
+        "date": "2023-07-22T23:23:48.785Z",
+        "manager": "Samantha Bright",
+        "contactId": 47
+    },
+    {
+        "text": "Hello {username}, As promised I'm sending a quote for your recent equipment request. Please note, we included pricing for our most recent models. If your budget is limited, we can offer last year models instead. Please let me know if you have any questions. Hope to hear from you soon.",
+        "subject": "A quote for the video equipment",
+        "date": "2023-07-22T20:17:30.591Z",
+        "manager": "Samantha Bright",
+        "contactId": 47
+    },
+    {
+        "text": "Hello {username}. Yesterday we talked about an audio equipment upgrade for your organization. I have great news for you. We've discussed your requirements and I can offer a 15% discount if your order exceeds $50,000. If you'd like to lock-in a 3 year contract, we will be happy to increase our discount to 20%.",
+        "subject": "Great news about your equipment upgrade",
+        "date": "2023-08-17T10:58:01.457Z",
+        "manager": "John Heart",
+        "contactId": 33
+    },
+    {
+        "text": "Hello {username}, As promised I'm sending a quote for your recent equipment request. Please note, we included pricing for our most recent models. If your budget is limited, we can offer last year models instead. Please let me know if you have any questions. Hope to hear from you soon.",
+        "subject": "A quote for the video equipment",
+        "date": "2023-07-19T20:26:07.072Z",
+        "manager": "Samantha Bright",
+        "contactId": 33
+    },
+    {
+        "text": "Hello {username}. Yesterday we talked about an audio equipment upgrade for your organization. I have great news for you. We've discussed your requirements and I can offer a 15% discount if your order exceeds $50,000. If you'd like to lock-in a 3 year contract, we will be happy to increase our discount to 20%.",
+        "subject": "Great news about your equipment upgrade",
+        "date": "2023-07-23T14:34:03.801Z",
+        "manager": "John Heart",
+        "contactId": 46
+    },
+    {
+        "text": "Hello {username}. We discussed your counteroffer with our CEO. Could you please forward your final technical requirements, so we can prepare a binding quote?\\nP.S. Do you offer any discounts for bulk orders?",
+        "subject": "Regarding your offer",
+        "date": "2023-07-18T04:03:48.961Z",
+        "manager": "John Heart",
+        "contactId": 46
+    },
+    {
+        "text": "Hello {username}. Yesterday we talked about an audio equipment upgrade for your organization. I have great news for you. We've discussed your requirements and I can offer a 15% discount if your order exceeds $50,000. If you'd like to lock-in a 3 year contract, we will be happy to increase our discount to 20%.",
+        "subject": "Great news about your equipment upgrade",
+        "date": "2023-08-04T21:01:09.574Z",
+        "manager": "John Heart",
+        "contactId": 40
+    },
+    {
+        "text": "Hello {username}. We discussed your counteroffer with our CEO. Could you please forward your final technical requirements, so we can prepare a binding quote?\\nP.S. Do you offer any discounts for bulk orders?",
+        "subject": "Regarding your offer",
+        "date": "2023-07-10T19:31:17.713Z",
+        "manager": "John Heart",
+        "contactId": 40
+    },
+    {
+        "text": "Hello {username}. Yesterday we talked about an audio equipment upgrade for your organization. I have great news for you. We've discussed your requirements and I can offer a 15% discount if your order exceeds $50,000. If you'd like to lock-in a 3 year contract, we will be happy to increase our discount to 20%.",
+        "subject": "Great news about your equipment upgrade",
+        "date": "2023-08-16T19:38:01.931Z",
+        "manager": "John Heart",
+        "contactId": 45
+    },
+    {
+        "text": "Hello {username}, As promised I'm sending a quote for your recent equipment request. Please note, we included pricing for our most recent models. If your budget is limited, we can offer last year models instead. Please let me know if you have any questions. Hope to hear from you soon.",
+        "subject": "A quote for the video equipment",
+        "date": "2023-08-13T09:01:56.947Z",
+        "manager": "Samantha Bright",
+        "contactId": 45
+    },
+    {
+        "text": "Hello {username}. We discussed your counteroffer with our CEO. Could you please forward your final technical requirements, so we can prepare a binding quote?\\nP.S. Do you offer any discounts for bulk orders?",
+        "subject": "Regarding your offer",
+        "date": "2023-08-04T04:42:39.379Z",
+        "manager": "John Heart",
+        "contactId": 26
+    },
+    {
+        "text": "Hello {username}, As promised I'm sending a quote for your recent equipment request. Please note, we included pricing for our most recent models. If your budget is limited, we can offer last year models instead. Please let me know if you have any questions. Hope to hear from you soon.",
+        "subject": "A quote for the video equipment",
+        "date": "2023-07-20T04:09:30.004Z",
+        "manager": "John Heart",
+        "contactId": 26
+    },
+    {
+        "text": "Hello {username}. We discussed your counteroffer with our CEO. Could you please forward your final technical requirements, so we can prepare a binding quote?\\nP.S. Do you offer any discounts for bulk orders?",
+        "subject": "Regarding your offer",
+        "date": "2023-08-19T11:28:36.931Z",
+        "manager": "John Heart",
+        "contactId": 44
+    },
+    {
+        "text": "Hello {username}, As promised I'm sending a quote for your recent equipment request. Please note, we included pricing for our most recent models. If your budget is limited, we can offer last year models instead. Please let me know if you have any questions. Hope to hear from you soon.",
+        "subject": "A quote for the video equipment",
+        "date": "2023-07-29T05:59:03.609Z",
+        "manager": "John Heart",
+        "contactId": 44
+    }
+]

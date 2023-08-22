@@ -1,17 +1,13 @@
-import { ReactionType } from "../../../types";
-
-export type UserStatsRow = {
-  userId: string;
-  publicName: string;
-  postCountLastMonth: number;
-  favoriteReaction: ReactionType;
+export type ContactStatsRow = {
+  contactId: number;
+  name: string;
+  messageCountLastMonth: number;
+  openTasks: number;
 };
 
-export type ReactionStats = Record<ReactionType, number>;
-
 export type QueryResultItem = {
-  ID: string;
-  PublicName: string;
-  Posts: { ID: string }[];
-  Reactions: { ReactionType: ReactionType }[];
+  id: number;
+  name: string;
+  messages: { text: string }[];
+  tasks: { status: string }[];
 };
